@@ -11,6 +11,8 @@ The MarineVerse team, Greg & Olga, had a chance to spend some time in Hobart dur
 
 If you have Google Cardboard, you can get a taste of virtually being there for real.
 
+<!--more-->
+
 ## Comanche
 
 The first few (non-vr) photos of Comanche - first boat to cross the finish line.

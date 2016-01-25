@@ -13,6 +13,8 @@ With the begining of 2016, MarineVerse was born. It will focus on creating virtu
 
 Our first goal is to create compelling "Introduction to sailing" experience for Google Cardboard.
 
+<!--more-->
+
 ## Demo apps
 
 Working towards the goal, we already created 2 simple demo apps:

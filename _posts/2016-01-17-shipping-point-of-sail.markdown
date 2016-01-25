@@ -13,6 +13,8 @@ By taking advantage of 360 degrees immersive environment and interactivity, the 
 
 It’s a well known fact, that virtual reality is best experienced first hand in VR goggles, but if you want to have a quick look at the app, there is a short video:
 
+<!--more-->
+
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/NtEwyIEd6yg" frameborder="0" allowfullscreen></iframe>
 
 You can get the app for free in [Google Play store](https://play.google.com/store/apps/details?id=com.marineverse.pointofsail).

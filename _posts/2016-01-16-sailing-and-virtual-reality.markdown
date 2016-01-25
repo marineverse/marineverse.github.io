@@ -13,6 +13,8 @@ We are trying to combine our passion for both, and we are looking for community 
 
 Please let us know:
 
+<!--more-->
+
 1. **What VR device do you have access to?**.. Google cardboard, GearVR, Oculus Rift, HTC Vive or something else?
 
 1. **What kind of experience would you like to see build?** Maybe "theory of sailing", nomenclature, rules, virtual taverna or something else?

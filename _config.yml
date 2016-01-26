@@ -7,7 +7,7 @@
 
 # Site settings
 title: MarineVerse Blog
-email: marineverse@gmail.com
+email: ahoy@marineverse.com
 description: > # this means to ignore newlines until "baseurl:"
   Updates from MarineVerse - all about sailing in Virtual Reality
 baseurl: "" # the subpath of your site, e.g. /blog

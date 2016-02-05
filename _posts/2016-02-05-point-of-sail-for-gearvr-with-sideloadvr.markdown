@@ -7,7 +7,7 @@ categories: gearvr sideloadvr sailing
 
 SideloadVR is an app that enables developers to share early access versions of their apps with GearVR users.
 
-![Sailing Terms](/assets/gearvr.png)
+![GearVR](/assets/gearvr.png)
 
 We are happy to announce that "Point of Sail" is now available via SideloadVR app.
 

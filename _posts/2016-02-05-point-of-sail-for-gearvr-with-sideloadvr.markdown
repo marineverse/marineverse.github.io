@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Point of Sail for GearVR with SideloadVR"
-date:   2016-02-05 17:00:00 +1100
+date:   2016-02-05 15:00:00 +1100
 categories: gearvr sideloadvr sailing
 ---
 

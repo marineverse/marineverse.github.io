@@ -5,7 +5,7 @@ date:   2016-02-15 18:30:00 +1100
 categories: sailing vr training
 ---
 
-> Recently in Toastmasters public speaking club Greg gave a speech about sailing and virtual reality. The speech was titled "A better sailing training" and you kind find the speech transcript below:
+> Recently in Toastmasters public speaking club Greg gave a speech about sailing and virtual reality. The speech was titled "A better sailing training" and you can find the speech transcript below:
 
 Sailing brings some of my greatest memories. Fresh air, sound of water splashing on the boat. Breath taking  sunsets.  Great adventure: struggling with the powers of nature - wind and water.
 

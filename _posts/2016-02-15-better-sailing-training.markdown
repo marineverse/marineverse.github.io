@@ -11,7 +11,7 @@ Sailing brings some of my greatest memories. Fresh air, sound of water splashing
 
 Sailing can be truly amazing.
 
-![Sailing](http://c2.staticflickr.com/8/7449/10223491246_d5ed38fd60_k.jpg)
+![Sailing](http://c2.staticflickr.com/8/7449/10223491246_d5ed38fd60_k.jpg)[by Alex](https://www.flickr.com/photos/14625546@N00/10223491246/in/photolist-gzq4Ls-qHKooh-oLAikB-fnsaKv-4X1gU5-8qKV6J-NsbV8-mRQAsv-ppBPSi-r5PTMm-qNjGg5-xFQ3z3-7v7GDt-y7YQ5w-huNDWB-j2UtY-oGHxrF-fEY5jp-rN9j4V-6NRUd8-aB8dgE-vtL5wY-q97GEZ-716EYp-auSXyx-oAMwWj-orpGLe-pJCBVG-eawCRU-dAvwRB-aWdywt-huNDBP-8LazAF-pqUAPr-pJjLS4-5fwqNe-6Es921-owAiyo-qFtYde-a6C7V8-qNtYrH-qNm78y-2XZCvR-oMGNFo-hJ8tCX-9w4tPU-9eXiiY-6fM2Lp-airbAx-oEZcA4)
 
 <!--more-->
 
@@ -23,7 +23,7 @@ How does sailing training work nowadays? First of wall, you have a practical ses
 
 The challenge with the initial training process is that there is so much to learn. On the water, the weather condition, something we can’t control have to be just right for the beginner, otherwise sailing is just too much overwhelming and potentially dangerous. Myself and Olga, we started doing a sailing class a few weeks ago. Our first week, wind was to strong and we didn’t get to steer the boat on our own. Following week, we got to sail.. but one of other boats capsized due to a strong wind. In a situation like this, you wish for something like a slow motion, a famous matrix bullet time, where you can pause reality and analyze situation at hand. This unfortunately is impossible in the real life.
 
-![Sailing capsize](http://c1.staticflickr.com/1/55/156574021_6cc056e100_b.jpg)
+![Sailing capsize](http://c1.staticflickr.com/1/55/156574021_6cc056e100_b.jpg)[by Ruth Hartnup](https://www.flickr.com/photos/ruthanddave/156574021/in/photolist-6WGPiC-3PHXJb-5NkMpY-bhbsXR-eQu16-Ns48Q-3PDE3D-3PHZRo-3PHQeq-3PDGBa-ehBv6-otFKRG-paatxo-q4SfPf-pmFL7F-hNPjt-acwpY2-ae9P8G-wrzT-mqsZRv-ae73g6-e5AmNU-bLM5Jn-4y7QUk-4TR1Db-ae9PVU-ae74b4-ae722B-ae73KF-ae74DM-ae9NAY-ae9Qm7-q6WZ7F-paasGf-q6WYYp-q6WZGP-paasiE-Cn7qf3-j3mtPK-q6XfrD-padbUX-pPyE9o-paasM5-pPBsDW-q6MhQc-7X1JUn-5ts17d-nCjTxK-5trZxW-m4cfu)
 
 What is the issues with classroom training? Usually it’s conducted in a group with an aid of a whiteboard. Whiteboards are 2 dimensional, actual world has 3 dimensions. Sometimes this translation is confusing to students. Moreover, in a group sometimes we don’t get to slow down and focus on something only we need to work on, as the group needs to move on.
 

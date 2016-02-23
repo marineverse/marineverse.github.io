@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Started on a sailing simulator"
-date:   2016-02-20 13:00:00 +1100
+date:   2016-02-24 08:00:00 +1100
 categories: cardboard vr sailing
 ---
 

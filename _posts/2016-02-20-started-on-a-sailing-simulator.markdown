@@ -9,9 +9,9 @@ Ahoy!
 
 We have just released the first version of a sailing simulator for Google Cardboard. Have fun sailing in virutal reality! :-)
 
-![Sail to Freedom](/assets/SailAroundBanertxt.jpg)
-
 <!--more-->
+
+![Sail to Freedom](/assets/SailAroundBanertxt.jpg)
 
 This is an early build of the game and we are interested a lot in your feedback on how to improve it. Dreaming of a great sailing in VR? Why not try "Sail to Freedom" and help us improve it.
 

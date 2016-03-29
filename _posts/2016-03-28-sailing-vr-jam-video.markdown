@@ -31,6 +31,8 @@ Why GearVR and not Cardboard? Our data and experience suggests that GearVR is th
 
 So what do we want to achieve with VR Regatta?
 
+![VR Regatta](/assets/vr_regatta.png)
+
 We want VR Regatta to:
 
   - be fun to play

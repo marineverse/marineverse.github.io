@@ -8,4 +8,4 @@ MarineVerse is a project by Greg & Olga focusing on application of Virtual Reali
 
 ![MarineVerse](/assets/gregolga.jpg)
 
-Follow this blog for updates on our progress. We would love to here your feedback and ideas.
+Follow this blog for updates on our progress. We would love to hear your feedback and ideas.

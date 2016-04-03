@@ -11,6 +11,8 @@ categories: vr sailing
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/kKYEEjn8zB8" frameborder="0" allowfullscreen></iframe>
 
+**Try [VR Regatta](http://sideloadvr.com/detail.php?id=10012) sailboat racing game.**
+
 Four days of hard work and intense thinking :-)
 
 <!--more-->

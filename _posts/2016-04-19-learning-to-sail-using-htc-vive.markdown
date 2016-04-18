@@ -27,7 +27,7 @@ Have a look at game play from "Sailing Terms":
 
 If you own Vive, we would love to hear your feedback, both prototypes are available for you to try:
 
-[Sailing Terms for HTC Vive](https://www.dropbox.com/s/4timemqn4mfwgqj/sailingterms.zip?dl=0)
-[VR Regatta for HTC Vive](https://www.dropbox.com/s/yx3o2m3tesh6da7/vrregattademo.zip?dl=0)
+- [Sailing Terms for HTC Vive](https://www.dropbox.com/s/4timemqn4mfwgqj/sailingterms.zip?dl=0)
+- [VR Regatta for HTC Vive](https://www.dropbox.com/s/yx3o2m3tesh6da7/vrregattademo.zip?dl=0)
 
 Our goal is to create the best sailing virtual reality content possible. Your feedback, comments and ideas are making it possible. Thank you from the mountain :-) (Thanks in advance for offering it.)

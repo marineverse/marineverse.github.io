@@ -11,7 +11,7 @@ email: ahoy@marineverse.com
 description: > # this means to ignore newlines until "baseurl:"
   Updates from MarineVerse - all about sailing in Virtual Reality
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://blog.marineverse.com/" # the base hostname & protocol for your site
 twitter_username: MarineVerseVR
 github_username:  marineverse
 excerpt_separator: <!--more-->

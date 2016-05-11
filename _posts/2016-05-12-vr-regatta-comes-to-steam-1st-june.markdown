@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "VR Regatta comes to Steam on 1st of June"
-date:   2016-05-12 05:00:00 +1100
+date:   2016-05-11 05:00:00 +1100
 categories: virtualreality sailing
 ---
 

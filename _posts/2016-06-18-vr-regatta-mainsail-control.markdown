@@ -28,7 +28,8 @@ A daily rate of a good developer in Australia can easily be above $1000AUD and t
 
 We need many of you to help, if we want to sustain VR Regatta development over longer period of time, so please consider sharing this post with friends.
 
-Have you already played and enjoyed VR Regatta? You can think of this coin donation as "pay what you want" model :-)
+**Have you already played and enjoyed VR Regatta? You can think of this coin donation as "pay what you want" model :-)**
+*( use this link http://store.steampowered.com/buyitem/468240/100/42 and change 42 to number of gold coins you want to donate.)*
 
 You can <a href="http://store.steampowered.com/buyitem/468240/100/20" target="_blank">give $19.80 donation by clicking here</a>.
 

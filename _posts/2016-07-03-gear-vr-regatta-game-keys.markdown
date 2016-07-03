@@ -2,7 +2,7 @@
 layout: post
 title:  "GearVR VR Regatta game keys"
 date:   2016-07-03 07:00:00 +1100
-categories: sailing htcvive
+categories: sailing gearvr
 ---
 
 Ahoy Skipper!

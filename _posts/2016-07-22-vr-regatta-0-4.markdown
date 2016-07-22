@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "VR Regatta 0.4"
+date:   2016-07-22 12:00:00 +1100
+categories: sailing htcvive
+---
+VR Regatta 0.4 has shipped :-)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HHgjXsLFC9U" frameborder="0" allowfullscreen></iframe>
+
+[Read full release notes for VR Regatta 0.4](http://steamcommunity.com/games/468240/announcements/detail/811030031500840638)

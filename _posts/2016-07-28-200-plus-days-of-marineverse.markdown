@@ -7,7 +7,7 @@ categories: sailing vr
 
 More then 200 days have passed since we started working on MarineVerse.
 
-It felt like a good point in time to reflect on of journey so far and share our progress.
+It felt like a good point in time to reflect on our journey so far and share the progress.
 
 This is Olga and Greg introducing an audience to sailing and virtual reality.
 

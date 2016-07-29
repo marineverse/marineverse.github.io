@@ -13,6 +13,8 @@ We offer safe yachts in always perfect condition and locations you can reach in 
 
 If you already have virtual reality hardware, then just go straight to our [sailing apps section](https://www.marineverse.com/virtual-reality-sailing-apps).
 
+<!--more-->
+
 Do you have around $2000 and you want the best money can buy? Get HTC Vive to get best possible experience - if you want something better - you will actually need to go on the real boat..
 
 Something cheaper? If you have a new Samsung phone, then GearVR will be the best choice.

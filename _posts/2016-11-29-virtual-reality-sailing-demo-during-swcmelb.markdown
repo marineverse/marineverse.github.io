@@ -15,6 +15,7 @@ We're working on virtual reality sailing simulator for HTC Vive and will be offe
 <img src="/assets/vive.jpg" style="width: 400px"/>
 <img src="/assets/sailinginvr.jpg" style="width: 300px"/>
 <!--more-->
+
 ## Potential benefits of Virtual Reality Sailing
 
   * **Sail in controlled environments** - practice different scenarios, with ability to control weather and competitors.

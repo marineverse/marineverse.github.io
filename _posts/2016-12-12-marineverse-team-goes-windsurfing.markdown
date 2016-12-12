@@ -29,6 +29,6 @@ So what did we learn during the test?
   * **Voice** - robotic voice we have at the moment is not the most pleasant to listen to. Using a voice actor would make using the app more enjoyable.
   * **Sailors asked for more** - actual virtual reality sailing (like in [VR Regatta](http://store.steampowered.com/app/468240)) - not just stationary sailing lesson.
 
-If you are interested in testing the Points of Sail app yourself, it's available on [Google Play store](https://play.google.com/store/apps/details?id=com.marineverse.pointofsail&hl=en).
+If you are interested in testing the Points of Sail app yourself, it's available on for Android users on [Google Play store](https://play.google.com/store/apps/details?id=com.marineverse.pointofsail&hl=en) and for IPhone owners on [App Store](https://itunes.apple.com/us/app/point-sail-for-google-cardboard/id1185287577?ls=1&mt=8).
 
 Any feedback or ideas? Contact us ahoy@marineverse.com

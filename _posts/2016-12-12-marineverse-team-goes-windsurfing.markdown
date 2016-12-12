@@ -10,7 +10,7 @@ Thanks to invitation by Australian Sailing Team RS:X coach Max Wójcik, Olga and
 <img src="/assets/windsurfingmax.jpg" style="margin-left: auto; margin-right: auto;"/>
 
 It was a great day, with perfect conditions to do some research into what windsurfing is all about. Great material to take our VR windsurfing further :-)
-
+<!--more-->
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Who wants windsurfing in <a href="https://twitter.com/hashtag/vr?src=hash">#vr</a> ? <a href="https://twitter.com/hashtag/screenshotsaturday?src=hash">#screenshotsaturday</a> <a href="https://twitter.com/hashtag/indiegame?src=hash">#indiegame</a> <a href="https://t.co/mG0KONDXX0">pic.twitter.com/mG0KONDXX0</a></p>&mdash; MarineVerse (@MarineVerseVR) <a href="https://twitter.com/MarineVerseVR/status/751741420466216960">July 9, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

@@ -8,12 +8,12 @@ categories: vr
 <img src="/assets/racingboats.jpg" style="max-width: 515px; width: 100%"/>
 
 
-<h4>Your chance to try sailing during Grand Prix in Melbourne!</h4>
+<h4>Your chance to try HTC Vive sailing during Grand Prix in Melbourne!</h4>
 
 <img src="/assets/australiansailing.jpg" style="max-width: 200px; float: right; "/>
 
 
-MarineVerse is partnering with Australian Sailing to deliver a virtual reality sailing experience in the kids sporting zone ([more info](http://www.grandprix.com.au/event/zones/kids-corner/kids-sporting-zone)).
+MarineVerse is partnering with Australian Sailing to deliver a **virtual reality sailing experience** in the kids sporting zone ([more info](http://www.grandprix.com.au/event/zones/kids-corner/kids-sporting-zone)).
 
 
 **Key facts:**

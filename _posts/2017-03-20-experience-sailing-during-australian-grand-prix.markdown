@@ -10,16 +10,16 @@ categories: vr
 
 <h4>Your chance to try HTC Vive sailing during Grand Prix in Melbourne!</h4>
 
-<img src="/assets/australiansailing.jpg" style="max-width: 200px; float: right; "/>
+<!-- <img src="/assets/australiansailing.jpg" style="max-width: 200px; float: right; "/ -->>
 
 
-MarineVerse is partnering with Australian Sailing to deliver a **virtual reality sailing experience** in the kids sporting zone ([more info](http://www.grandprix.com.au/event/zones/kids-corner/kids-sporting-zone)).
+MarineVerse is going to deliver a **virtual reality sailing experience** in the kids sporting zone ([more info](http://www.grandprix.com.au/event/zones/kids-corner/kids-sporting-zone)).
 
 
 **Key facts:**
 
   * VR Regatta - Sailing experience for HTC Vive - free of charge.
-  * Australian Sailing booth on Friday, Saturday and Sunday (*24-26 March*).
+  * You can find us at Discover Sailing booth on Friday, Saturday and Sunday (*24-26 March*).
 
 <!--more-->
 

@@ -9,7 +9,7 @@ Last weekend over 100 people tried virtual reality sailing experience delivered 
 
 <img src="/assets/gp/1.jpg" style="max-width: 800px; width: 100%"/>
 
-Our VR sailing game [VR Regatta](http://store.steampowered.com/app/468240) attracted attention from kids and their parents:
+Our VR sailing game [VR Regatta](http://store.steampowered.com/app/468240) attracted a lot of interest from kids and their parents:
 
 <!--more-->
 

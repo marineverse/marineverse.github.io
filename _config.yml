@@ -14,7 +14,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.marineverse.com" # the base hostname & protocol for your site
 twitter_username: MarineVerseVR
 github_username:  marineverse
+gems: ["jekyll-paginate"]
 excerpt_separator: <!--more-->
+paginate_path: "/blog/archive/:num/"
 
 # Build settings
 markdown: kramdown
+paginate: 6

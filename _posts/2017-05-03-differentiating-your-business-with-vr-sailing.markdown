@@ -1,9 +1,11 @@
 ---
 layout: post
 title: "Differentiating your business with vr sailing"
-date: 2017-04-18 12:00:00 +1100
+date: 2017-05-03 12:00:00 +1100
 categories: marketing
 ---
+
+[MarineVerse Events](https://www.marineverse.com/events)
 
 Are you looking for a sailing game/simulator for an event you are organising?
 

@@ -1,0 +1,95 @@
+---
+layout: post
+title: "VR Regatta @ Volvo Ocean Race in Melbourne"
+date: 2018-01-07 09:00:00 +1100
+categories: sailing vr
+---
+
+**VR Regatta has been experienced by hundreds of people during Volvo Ocean Race stopover in Melbourne.**
+
+<img src="/assets/vor/vrregattavor1.jpg" style="max-width: 800px; width: 100%;"/>
+
+Taste of sailing for young and senior visitors, daily VR Regatta races, running 2 simultaneous HTC Vive setups and lots of discussions with sailing community were the highlights of the event.
+
+<!--more-->
+
+## Discover sailing
+
+<img src="/assets/vor/vrregattavor2.jpg" style="float: right; max-width: 400px; width: 100%; margin: 0px 0px 0px 15px;"/>
+
+MarineVerse team partnered with Australian Sailing to deliver Discover Sailing experience in the race village. While Australian Sailing team was taking people on the water and offering tips & advice how to enter the sport, MarineVerse team was providing an interactive, relaxing sailing experience on the dry land.
+
+The two activities were quite complementary - visitors waiting for their turn to go sailing could fill in the time with fun VR activity and gain some initial knowledge and experience in the process.
+
+<img src="/assets/vor/vrregattavor4.jpg" style="max-width: 800px; width: 49%; margin: 10px 0px 0px 0px; float: left;"/>
+
+<img src="/assets/vor/vrregattavor5.jpg" style="max-width: 800px; width: 49%; margin: 10px 0px 0px 0px; float: right;"/>
+
+<img src="/assets/vor/vrregattavor3.jpg" style="max-width: 800px; width: 100%; margin: 10px 0px 0px 0px;"/>
+
+
+We’re also able to attract tech enthusiasts and wider public and get them interested in sailing - with a direct possibility to try the sport for real afterwards.
+
+Last but not least, sailors could easily share their passion with friends & family - it was great to see kids take the tiller and enjoy exploring the islands learning in the safe environment about the sport in the process.
+
+## VR Regatta Daily Race
+
+Sailors took to the helm as guests entered our first ever Daily Regattas. Sailors went head to head in a time trial sailing course. Race results were instantly listed on our website where players were able to check on their score throughout the event ! Congratulations to our VR Regatta winners !
+
+<img src="/assets/vor/vrregattavor7.jpg" style="max-width: 800px; width: 49%; margin: 10px 0px 0px 0px; float: right; "/>
+
+<img src="/assets/vor/vrregattavor8.jpg" style="max-width: 800px; width: 49%; margin: 10px 0px 0px 0px; float: left; "/>
+
+<img src="/assets/vor/vrregattavor6.jpg" style="max-width: 800px; width: 100%; margin: 10px 0px 0px 0px;"/>
+
+<div style="content: ''; clear: both; display: table;"></div>
+
+We’re quite proud of the racing experience we are already able to offer, but what really makes us excited is the future - imagine 4 simultaneous HTC Vive setups with players racing each other in multiplayer environment.
+
+As VR hardware offers so reach input ( body tracking, direct manipulation of sailboat controls ) - we will be able to deliver a true e-sport experience where every decision, every micro-movement and adjustment will make a difference between winning and losing - creating a great spectacle to watch and compete in.
+
+
+## Our event setup
+
+<img src="/assets/vor/vrregattavor10.jpg" style="max-width: 800px; width: 100%; margin: 10px 0px 0px 0px;"/>
+
+To deliver our virtual reality sailing experience during the event, in addition to VR Regatta - The Sailing Game we used HTC Vive VR headset with tracked hand-held controllers and MSI VR ready laptops.
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Ab2U8UPztE8?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+VR Regatta is our own product, that we constantly improve and optimize, so it was no surprise to us that it done its job well. Running a demo is a simple as pressing ‘U’ on the keyboard and letting someone relax and get comfortable with the boat, followed by ‘O’ that starts the race - enabling players compete against others visitors ( [more details on using VR Regatta during the event](http://steamcommunity.com/sharedfiles/filedetails/?id=1235027178) ).
+
+
+Being located outside, we had to use tents as a wind, sun and rain protection. In the photos you can see durable, quality tents provided by New Tack Events P/L that worked great.
+
+<img src="/assets/vor/vrregattavor11.jpg" style="max-width: 800px; width: 49%; margin: 10px 0px 0px 0px; float: right; "/>
+
+<img src="/assets/vor/vrregattavor12.jpg" style="max-width: 800px; width: 49%; margin: 10px 0px 0px 0px; float: left; "/>
+
+<img src="/assets/vor/vrregattavor13.jpg" style="max-width: 800px; width: 100%; margin: 10px 0px 0px 0px;"/>
+
+We’re proud to be located in a central location in the race village, right next to the Volvo 65 yachts.
+
+<img src="/assets/vor/vrregattavor9.jpg" style="max-width: 800px; width: 100%; margin: 10px 0px 0px 0px;"/>
+
+
+## VR Regatta feedback
+
+We were delighted by the high turn out and the feedback generated by both the sailing and non sailing community at the event, including Olympian laser sailor.
+
+While the general public enjoyed relaxing sailing experience VR Regatta can offer, it was interesting to hear feedback from professional sailors. Pros generally want more boat controls ( like vang, cunningham and outhaul  ) and realism then currently in the game - features we will hopefully be able to provide in the future, as VR Regatta ( and virtual reality tech, as pros were sometimes pushing the limits! ) develops.
+
+One of the highlights for us was watching “ex-sailors” enjoy the experience, enabling them to re-connect with they passion, that for whatever various reasons they may not be able to currently enjoy ( like ocean sailing into the sunset our VR Regatta yacht ).
+
+## What’s next?
+
+We had a great time sharing our VR Regatta sailing experience with you at the event. We are looking forward to many more events to come!
+
+<img src="/assets/vor/vrregattavor14.jpg" style="max-width: 800px; width: 100%; margin: 10px 0px 0px 0px;"/>
+
+
+If you sailed with us and enjoyed the experience, please help us spread the word. We want to deploy VR Regatta in sailing clubs worldwide, to enable training, weekly regattas and discover sailing activities.
+
+**If you would like to contact us, please send us a message ahoy@marineverse.com**
+
+[VR Regatta - The Sailing Game on Steam](http://store.steampowered.com/app/468240/VR_Regatta__The_Sailing_Game/)

@@ -9,6 +9,9 @@ categories: sailing
 
 Are you looking for the best VR tech gadget for a sailor to buy, maybe as a gift?  At [MarineVerse](https://www.marineverse.com/), we had a chance to try all of the modern VR devices and here are our recommendations for sailors in 2018:
 
+<!--more-->
+
+
 ![Oculus Rift](/assets/gorift.jpg)
 
 **Best mobile headset for sailors:** Oculus Go
@@ -22,9 +25,6 @@ Are you looking for the best VR tech gadget for a sailor to buy, maybe as a gift
 Why? Let’s have a closer look at all the headsets and what we can do with them:
 
 ![Best VR headsets comparison 2018](/assets/bestvrgadgets2018.png)
-
-
-<!--more-->
 
 ## Oculus Go
 

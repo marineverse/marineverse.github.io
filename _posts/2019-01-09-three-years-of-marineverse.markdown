@@ -55,6 +55,7 @@ The most notable event was probably [Volvo Ocean Race stopover](https://blog.mar
 
 ![Volvo Ocean Race event](/assets/vor/vrregattavor7.jpg)
 ![Volvo Ocean Race event](/assets/vor/vrregattavor2.jpg)
+![Festival Of Sails](/assets/fos/fos2.jpg)
 
 There were [many other events](https://www.marineverse.com/events) and we are in particular very happy with the events that were run by independent third parties ( like London Boat Show installation ), proving that running a VR Sailing booth is a viable option, even if you are not a technical expert.
 
@@ -117,6 +118,10 @@ Having said that, the next project we're planning to deliver won't target beginn
 ---
 
 There is more we are thinking about, including real-time multiplayer racing and long distance voyages around the world in virtual reality, but we will talk more about it in the future articles.
+
+![MarineVerse Team](/assets/vor/vrregattavor14.jpg)
+
+
 
 Thank you for your ongoing support, hope you will continue sailing with us in 2019 and beyond :-)
 

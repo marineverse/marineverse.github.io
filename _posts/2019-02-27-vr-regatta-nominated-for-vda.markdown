@@ -15,4 +15,4 @@ The nomination is great news for virtual reality sailing. As a nominee, we alrea
 
 The winners of the Viveport Developer Awards will be announced Monday, March 18th at the Game Developers Conference in San Francisco.
 
-Try [VR Regatta the sailing game](https://www.viveport.com/apps/dd4d3900-6404-4596-950c-403af6238a81/VR_Regatta_-_The_Sailing_Game/) or get in touch with MarineVerse team ahoy@marineverse.com
+Try [VR Regatta - The Sailing Game](https://www.viveport.com/apps/dd4d3900-6404-4596-950c-403af6238a81/VR_Regatta_-_The_Sailing_Game/) or get in touch with MarineVerse team ahoy@marineverse.com

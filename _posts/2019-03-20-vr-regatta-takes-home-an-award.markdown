@@ -4,7 +4,7 @@ title:  "VR Regatta takes home an Award"
 date:   2019-03-20 04:00:00 +1100
 categories: startup
 ---
-[DOWNLOAND Press release as PDF.](https://d3mi3qsvgmg9zn.cloudfront.net/VDA3VRRegattaPress.pdf)
+[DOWNLOAD Press release as PDF.](https://d3mi3qsvgmg9zn.cloudfront.net/VDA3VRRegattaPress.pdf)
 
 ![David at GDC](/assets/vda3david.jpg)
 *David with the award at GDC 2019.*

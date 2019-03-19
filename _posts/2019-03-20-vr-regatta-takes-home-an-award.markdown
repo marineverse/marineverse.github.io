@@ -23,7 +23,7 @@ VR Regatta has just received an award in the education category at an event orga
 
 In particular, award in Education category recognizes experiences that offer immersive and interactive learning experiences for the classroom or outside of it. VR Regatta was one [the of two applications recognized in this category by HTC Vive team](https://blog.vive.com/us/2019/03/19/third-annual-viveport-developer-awards-winners-announced/).
 
-At the event we’ve also announced that the next step for VR Regatta which is a pilot rollout of virtual reality sailing to selected sailing clubs in collaboration with US Sailing. Will share more on that soon!
+At the event we’ve also announced the next step for VR Regatta which is a pilot rollout of virtual reality sailing to selected sailing clubs in collaboration with US Sailing. Will share more on that soon!
 
 Thank you for your ongoing help and support and for being part of MarineVerse’s community.
 

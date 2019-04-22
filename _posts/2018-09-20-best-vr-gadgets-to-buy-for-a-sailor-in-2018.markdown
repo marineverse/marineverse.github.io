@@ -16,7 +16,7 @@ Are you looking for the best VR tech gadget for a sailor to buy, maybe as a gift
 
 **Best mobile headset for sailors:** Oculus Go
 
-**Best high-end headset for sailors:** Oculus Rift
+**Best high-end headset for sailors:** Oculus Rift *(2019 UPDATE: HTC VIVE)*
 
 **Best high-end headset for sailing clubs:** HTC Vive
 
@@ -41,6 +41,8 @@ The downside of Oculus Go is that it offers only limited tracking and controls. 
 **Sailing apps to try:** [“Big Breezy Boat”](https://www.oculus.com/experiences/app/1581112278669461/) is a relaxing sailing experience for mobile VR. Immerse yourself in a vast open ocean on your own private yacht.
 
 ## Oculus Rift
+
+**2019 Update** *Oculus 'upgraded' their headset to Oculus S. Until further notice we recommend new sailors look into HTC Vive, as we are not sure if the new tracking system in Oculus S will be appropiate for optimal virtual reality sailing.*
 
 ![Oculus Rift](/assets/oculustouch.jpg)
 
@@ -71,7 +73,7 @@ In this article we focused on devices on which you can experience virtual realit
 
 ## Summary
 
-All in all, in our opinion the best choice at the moment are Oculus Go for mobile and Oculus Rift for a high-end solution.
+All in all, in our opinion the best choice at the moment are Oculus Go for mobile and Oculus Rift ( *HTC Vive as of 2019* ) for a high-end solution.
 
 Hopefully you find this article useful and we wish you many enjoyable hours spent on board of your virtual sailing yacht. If you are thinking of using virtual reality as a tool to enhance your sailing training we hope the results will exceed your expectations.
 

@@ -11,8 +11,7 @@ categories: startup
 
 Earlier this year we had a chance to collaborate with HTC Vive team on a video as a part of Viveport Developer Stories series, giving you a unique chance to learn more about VR Regatta and MarineVerse team. This is the result:
 
-
-COMING SOON...
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/rYm3qSVrlE8?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 <!--more-->
 

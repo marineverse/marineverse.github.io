@@ -43,6 +43,6 @@ MarineVerse Cup is all about the community. If you would like to try sailing joi
 We hope you enjoyed this blog post in **"VR Sailors - MarineVerse Community"** series - stay tuned for more soon!
 
   - #1 [David Wright, Commodore at Hythe Sailing Club in Southampton](https://blog.marineverse.com/marineverse/2020/01/21/vr-sailors-marineverse-cup-community-david-wright.html)
-  - #2 [Luke, Dinghy sailor from Germany](https://blog.marineverse.com/marineverse/2020/01/21/vr-sailors-marineverse-cup-community-david-wright.html)
+  - #2 [Luke, Dinghy sailor from Germany](https://blog.marineverse.com/marineverse/2020/01/29/vr-sailors-marineverse-cup-community-lucky-luke.html)
 
 

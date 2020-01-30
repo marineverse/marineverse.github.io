@@ -14,7 +14,7 @@ Today, we are chatting with **Luke, Dinghy sailor from [Segelclub Vierlande](htt
 In virtual reality, you can meet Luke in MarineVerse Cup as [Lucky Luke](https://www.marineverse.com/marineverse-cup/race/RIr27gp07ol_Pqm9BtychvgvZORu_jcjsnssloiE0VFeOWc).
 
 
-![David1](/assets/community/luckyluke.jpg)
+![Lucky Luke](/assets/community/luckyluke.jpg)
 
 We have asked Luke a couple of questions..
 

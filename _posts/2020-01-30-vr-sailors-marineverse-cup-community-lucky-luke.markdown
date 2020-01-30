@@ -9,12 +9,13 @@ Ahoy!
 
 Welcome to the second post in the series **"VR Sailors - MarineVerse Community"** - introducing sailors racing in [MarineVerse Cup](https://www.marineverse.com/marineverse-cup).
 
+![Lucky Luke](/assets/community/luckyluke.jpg)
+
 Today, we are chatting with **Luke, Dinghy sailor from [Segelclub Vierlande](http://sc4.de) in Northern Germany**.
 
-In virtual reality, you can meet Luke in MarineVerse Cup as [Lucky Luke](https://www.marineverse.com/marineverse-cup/race/RIr27gp07ol_Pqm9BtychvgvZORu_jcjsnssloiE0VFeOWc).
+In virtual reality, you can meet Luke in MarineVerse Cup as [Lucky Luke](https://www.marineverse.com/marineverse-cup/race/RIr27gp07ol_Pqm9BtychvgvZORu_jcjsnssloiE0VFeOWc). In MarineVerse Cup Luke is racing in a "Pro Series" and [as of today is #7 in the world](https://www.marineverse.com/marineverse-cup/rating).
 
-
-![Lucky Luke](/assets/community/luckyluke.jpg)
+<img src="/assets/community/rating30jan.jpg" style="max-width: 300px; width: 100%; margin-left: auto; margin-right: auto; display: block;"/>
 
 We have asked Luke a couple of questions..
 
@@ -22,7 +23,7 @@ We have asked Luke a couple of questions..
 
 **What is your sailing experience?**
 
-*I started sailing when I was 10 years old on a holiday camp at a local lake. After the camp, I was really interested in more sailing and began Optimist class sailing at a nearby sailing club - (Segelclub Vierlande). There I started regatta sailing and later got my own Optimist "Lucky Luke". Until last year I sailed my little Optimist in northern Germany's waters. Now 15 old years and growing out of this class I want to switch to a Laser.*.
+*I started sailing when I was 10 years old on a holiday camp at a local lake. After the camp, I was really interested in more sailing and began Optimist class sailing at a nearby sailing club - (Segelclub Vierlande). There I started regatta sailing and later got my own Optimist "Lucky Luke". Until last year I sailed my little Optimist in northern Germany's waters. Now 15 years old and growing out of this class I want to switch to a Laser.*.
 
 **Tell us something about your experience with MarineVerse Cup?**
 

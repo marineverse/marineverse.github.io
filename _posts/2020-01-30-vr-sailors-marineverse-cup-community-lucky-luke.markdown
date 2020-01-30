@@ -13,13 +13,14 @@ Welcome to the second post in the series **"VR Sailors - MarineVerse Community"*
 
 Today, we are chatting with **Luke, Dinghy sailor from [Segelclub Vierlande](http://sc4.de) in Northern Germany**.
 
+<!--more-->
+
 In virtual reality, you can meet Luke in MarineVerse Cup as [Lucky Luke](https://www.marineverse.com/marineverse-cup/race/RIr27gp07ol_Pqm9BtychvgvZORu_jcjsnssloiE0VFeOWc). In MarineVerse Cup Luke is racing in a "Pro Series" and [as of today is #7 in the world](https://www.marineverse.com/marineverse-cup/rating).
 
 <img src="/assets/community/rating30jan.jpg" style="max-width: 300px; width: 100%; margin-left: auto; margin-right: auto; display: block;"/>
 
 We have asked Luke a couple of questions..
 
-<!--more-->
 
 **What is your sailing experience?**
 

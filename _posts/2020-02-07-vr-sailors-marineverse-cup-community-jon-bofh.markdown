@@ -7,7 +7,7 @@ categories: marineverse
 
 Ahoy!
 
-Welcome to the second post in the series **"VR Sailors - MarineVerse Community"** - introducing sailors racing in [MarineVerse Cup](https://www.marineverse.com/marineverse-cup).
+Welcome to the third post in the series **"VR Sailors - MarineVerse Community"** - introducing sailors racing in [MarineVerse Cup](https://www.marineverse.com/marineverse-cup).
 
 ![Jon](/assets/community/jon.jpg)
 

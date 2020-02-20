@@ -25,7 +25,7 @@ We have asked Ryan a couple of questions..
 
 **What is your sailing experience?**
 
-*I got into sailing about 3 years ago after getting sucked into a YouTube channel called “Wicked Salty”. I have always been into boats, but that’s what turned me on to Sailboats in particular. So I started obsessing a little bit and would always be browsing the local Craigs List ads to see what was available. One day and ad popped up for a FREE sailboat (she was in pretty rough shape) so I snagged her up before anyone else, spent the summer fixing it up, started my OWN YouTube channel documenting the progress (Shameless Plug - Check out Sailing FreeStyle on YouTube!) and was able to go sailing for the first time at the end of 2017! Basically taught myself how to sail and I have been having an absolute blast with that boat ever since.*
+*I got into sailing about 3 years ago after getting sucked into a YouTube channel called “Wicked Salty”. I have always been into boats, but that’s what turned me on to Sailboats in particular. So I started obsessing a little bit and would always be browsing the local Craigs List ads to see what was available. One day an ad popped up for a FREE sailboat (she was in pretty rough shape) so I snagged her up before anyone else, spent the summer fixing it up, started my OWN YouTube channel documenting the progress (Shameless Plug - Check out Sailing FreeStyle on YouTube!) and was able to go sailing for the first time at the end of 2017! Basically taught myself how to sail and I have been having an absolute blast with that boat ever since.*
 
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/z-8_Sfi6grA?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 

@@ -57,6 +57,7 @@ We hope you enjoyed this blog post in **"VR Sailors - MarineVerse Community"** s
   - #4 [Guillermo Iurgi López de Ipiña Silván from Spain](https://blog.marineverse.com/marineverse/2020/02/13/vr-sailors-marineverse-cup-community-giurgi-lis.html)
   - #5 [Ryan (AKA Sailing FreeStyle ) from the USA](https://blog.marineverse.com/marineverse/2020/02/20/vr-sailors-marineverse-cup-community-sailing-freestyle.html)
   - #6 [Nelson from Cincinnati, Ohio in the USA](https://blog.marineverse.com/marineverse/2020/02/27/vr-sailors-marineverse-cup-community-nelson-livingston.html)
+  - #7 [Mark Afheldt based in Toronto, Canada](https://blog.marineverse.com/marineverse/2020/04/23/vr-sailors-marineverse-cup-community-mark-afheldt.html)
 
 
 

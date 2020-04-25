@@ -42,7 +42,7 @@ We have asked Dennis a couple of questions..
 
 **Who and why should try MarineVerse Cup**
 
-*Any one interested any learning how to sail, and boat basics. Its a fun SAFE way to learn some basics.*
+*Any one interested in learning how to sail, and boat basics. Its a fun SAFE way to learn some basics.*
 
 **Any tips for those new to sailing that want to race in MarineVerse Cup?**
 

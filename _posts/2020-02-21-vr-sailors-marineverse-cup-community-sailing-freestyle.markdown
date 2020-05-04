@@ -66,4 +66,5 @@ We hope you enjoyed this blog post in **"VR Sailors - MarineVerse Community"** s
   - #6 [Nelson from Cincinnati, Ohio in the USA](https://blog.marineverse.com/marineverse/2020/02/27/vr-sailors-marineverse-cup-community-nelson-livingston.html)
   - #7 [Mark Afheldt based in Toronto, Canada](https://blog.marineverse.com/marineverse/2020/04/23/vr-sailors-marineverse-cup-community-mark-afheldt.html)
   - #8 [Dennis Fields sailing out of Las Vegas, Nevada](https://blog.marineverse.com/marineverse/2020/04/24/vr-sailors-marineverse-cup-community-dennis-fields.html)
+  - #9 [William Wollin, based in Racine, Wisconsin](https://blog.marineverse.com/marineverse/2020/05/03/vr-sailors-marineverse-cup-community-william-wollin.html)
 

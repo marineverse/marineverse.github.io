@@ -47,16 +47,7 @@ MarineVerse Cup is all about the community. If you would like to try sailing joi
 
 We hope you enjoyed this blog post in **"VR Sailors - MarineVerse Community"** series - stay tuned for more soon!
 
-  - #1 [David Wright, Commodore at Hythe Sailing Club in Southampton](https://blog.marineverse.com/marineverse/2020/01/21/vr-sailors-marineverse-cup-community-david-wright.html)
-  - #2 [Luke, Dinghy sailor from Germany](https://blog.marineverse.com/marineverse/2020/01/29/vr-sailors-marineverse-cup-community-lucky-luke.html)
-  - #3 [Jon "Bofh" from Glastonbury in the U.K](https://blog.marineverse.com/marineverse/2020/02/06/vr-sailors-marineverse-cup-community-jon-bofh.html)
-  - #4 [Guillermo Iurgi López de Ipiña Silván from Spain](https://blog.marineverse.com/marineverse/2020/02/13/vr-sailors-marineverse-cup-community-giurgi-lis.html)
-  - #5 [Ryan (AKA Sailing FreeStyle ) from the USA](https://blog.marineverse.com/marineverse/2020/02/20/vr-sailors-marineverse-cup-community-sailing-freestyle.html)
-  - #6 [Nelson from Cincinnati, Ohio in the USA](https://blog.marineverse.com/marineverse/2020/02/27/vr-sailors-marineverse-cup-community-nelson-livingston.html)
-  - #7 [Mark Afheldt based in Toronto, Canada](https://blog.marineverse.com/marineverse/2020/04/23/vr-sailors-marineverse-cup-community-mark-afheldt.html)
-  - #8 [Dennis Fields sailing out of Las Vegas, Nevada](https://blog.marineverse.com/marineverse/2020/04/24/vr-sailors-marineverse-cup-community-dennis-fields.html)
-  - #9 [William Wollin, based in Racine, Wisconsin](https://blog.marineverse.com/marineverse/2020/05/03/vr-sailors-marineverse-cup-community-william-wollin.html)
-
+{% include community-series.markdown %}
 
 
 

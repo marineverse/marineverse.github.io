@@ -8,5 +8,7 @@
   - #8 [Dennis Fields sailing out of Las Vegas, Nevada](https://blog.marineverse.com/marineverse/2020/04/24/vr-sailors-marineverse-cup-community-dennis-fields.html)
   - #9 [William Wollin, based in Racine, Wisconsin](https://blog.marineverse.com/marineverse/2020/05/03/vr-sailors-marineverse-cup-community-william-wollin.html)
   - #10 [Pascal from Paris, France](https://blog.marineverse.com/marineverse/2020/05/08/vr-sailors-marineverse-cup-community-pascal.html)
+  - #11 [Linda van Kleef, Dutch living in Germany](https://blog.marineverse.com/marineverse/2020/05/11/vr-sailors-marineverse-cup-community-linda-van-kleef.html)
+
 
 

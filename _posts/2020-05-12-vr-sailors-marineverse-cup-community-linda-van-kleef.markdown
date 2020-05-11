@@ -39,7 +39,7 @@ We have asked Linda a couple of questions..
 
 **Tell us something about your experience with MarineVerse?**
 
-*Recently started on the Oculus Go with Big Breezy Boat, immediately after involved my 80 year old mother too on her own Go, living not far from eachother but during COVID time, in BBB relaxing, feeling like we used to feel when we were sailing, chatting and relaxing and being amazed !*
+*Recently started on the Oculus Go with Big Breezy Boat, immediately after involved my 80 year old mother too on her own Go, living not far from each other but during COVID time, in BBB relaxing, feeling like we used to feel when we were sailing, chatting and relaxing and being amazed !*
 
 <img src="/assets/community/sailingaway3b.jpg" style="max-width: 600px; width: 100%; margin-left: auto; margin-right: auto; display: block;"/>
 

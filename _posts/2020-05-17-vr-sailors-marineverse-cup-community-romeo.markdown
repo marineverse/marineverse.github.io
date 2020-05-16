@@ -38,7 +38,7 @@ A dolphin pod would be a great add to Big Breezy Boat.*
 
 *I was interested in VR and purchased an Oculus Go and discovered the “Big Breezy Boat” and enjoyed getting on the VR ocean.*
 
-*I upgraded to Oculus Quest and contacted Greg from MarineVerse team and wondered why I could not get the sailing app. Greg hooked me up with the alpha version of Marineverse Cup.*
+*I upgraded to Oculus Quest and contacted Greg from MarineVerse team and wondered why I could not get the sailing app. Greg hooked me up with the alpha version of MarineVerse Cup.*
 
 *So while I am sheltering in place, I have been addicted to competing in sailing races daily!*
 
@@ -46,7 +46,7 @@ A dolphin pod would be a great add to Big Breezy Boat.*
 
 **Who and why should try MarineVerse Cup**
 
-*If you can’t get to the ocean, or have no access to a sail boat.  Marineverse Cup is the perfect VR solution to improve you sailing knowledge and skill set. I would recommend it to any one who loves to escape, even while we are in lock down.*
+*If you can’t get to the ocean, or have no access to a sail boat,  MarineVerse Cup is the perfect VR solution to improve you sailing knowledge and skill set. I would recommend it to any one who loves to escape, even while we are in lock down.*
 
 ![MarineVerse Cup](https://d3mi3qsvgmg9zn.cloudfront.net/mvcup/hearo_logo.png)
 

@@ -10,3 +10,4 @@
   - #10 [Pascal from Paris, France](https://blog.marineverse.com/marineverse/2020/05/08/vr-sailors-marineverse-cup-community-pascal.html)
   - #11 [Linda van Kleef, Dutch living in Germany](https://blog.marineverse.com/marineverse/2020/05/11/vr-sailors-marineverse-cup-community-linda-van-kleef.html)
   - #12 [Romeo, Marina Del Rey, CA](https://blog.marineverse.com/marineverse/2020/05/16/vr-sailors-marineverse-cup-community-romeo.html)
+  - #13 [Kevin, Port Elizabeth, South Africa](https://blog.marineverse.com/marineverse/2020/05/29/vr-sailors-marineverse-cup-community-kevin.html)

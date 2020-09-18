@@ -5,6 +5,8 @@ date:   2018-09-20 9:00:00 +1100
 categories: sailing
 ---
 
+[Go here for 2020 edition of the best VR gadgets to buy for a sailor.](https://blog.marineverse.com/sailing/2020/09/17/best-vr-gadgets-to-buy-for-a-sailor-in-2020.html)
+
 ![Oculus Rift](/assets/govrregatta.jpg)
 
 Are you looking for the best VR tech gadget for a sailor to buy, maybe as a gift?  At [MarineVerse](https://www.marineverse.com/), we had a chance to try all of the modern VR devices and here are our recommendations for sailors in 2018:

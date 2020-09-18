@@ -63,8 +63,9 @@ If you don't already have one a gaming PC, this can add anywhere between $800 to
 
 **Sailing apps to try:** [“VR Regatta”](https://store.steampowered.com/app/468240/VR_Regatta__The_Sailing_Game/) is the leading virtual reality sailing game. Explore the the immersive, inspiring sailing experience that awaits you on the open seas. Veterans of sailing and newcomers alike are invited to discover the relaxation and exploration at Akalana Islands.
 
-If you never sailed or you want to give a friend or family member a taste of sailing, VR Regatta is a good choice. Watch those non-sailor gamers interacting for the first time with VR Regatta:
+If you never sailed or you want to give a friend or family member a taste of sailing, VR Regatta is a great choice.
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/lygmTC4bMig?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 <img src="/assets/vrregattaboatshow.jpg" style="max-width: 800px; width: 100%"/>
 *( The sailor above is using HTC Vive. HTC Vive, like Valve Index, is a SteamVR headset. Any SteamVR compatible headset will run VR Regatta. )*

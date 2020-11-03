@@ -18,7 +18,11 @@ MarineVerse partners with an iconic sailing brand [WASZP](https://www.waszp.com/
 Over the last 7 months MarineVerse has worked closely with WASZP through the challenging Melbourne lockdown period to develop the world’s most accessible VR sailboat foiling experience. Today, they’re inviting sailors & gamers alike to give it a go.
 
 If you would like to learn more about WASZP, watch The WASZP Story:
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/7hnRDMtmtd0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/EgTnceHunns?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+
 
 *4-5 years ago, Foiling was seen as high-end and unachievable to most, but now, thanks to the MarineVerse Cup, everyone can try it in virtual reality.*
 

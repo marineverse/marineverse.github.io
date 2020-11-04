@@ -17,16 +17,15 @@ MarineVerse partners with an iconic sailing brand [WASZP](https://www.waszp.com/
 
 Over the last 7 months MarineVerse has worked closely with WASZP through the challenging Melbourne lockdown period to develop the world’s most accessible VR sailboat foiling experience. Today, they’re inviting sailors & gamers alike to give it a go.
 
-If you would like to learn more about WASZP, watch The WASZP Story:
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/kkUMGOckSzg?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/7hnRDMtmtd0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+If you would like to learn more about WASZP, watch The WASZP Story:
 
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/EgTnceHunns?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 *4-5 years ago, Foiling was seen as high-end and unachievable to most, but now, thanks to the MarineVerse Cup, everyone can try it in virtual reality.*
 
-Next week, WASZP is launching a bespoke system called RACEHUB which will digitally connect sailors around the world with competitions, both on the water and virtually. Each new RACEHUB user will receive a copy of MarineVerse Cup.
+Next week, WASZP is launching a bespoke system called [RACEHUB](https://www.waszp.com/news/waszp-vr) which will digitally connect sailors around the world with competitions, both on the water and virtually. Each new RACEHUB user will receive a copy of MarineVerse Cup.
 
 <img src="https://d3mi3qsvgmg9zn.cloudfront.net/mvcup/waszp4.jpg" style="max-width: 800px; width: 100%; margin-left: auto; margin-right: auto; display: block;"/>
 
@@ -47,13 +46,13 @@ MarineVerse Cup is available in Early Access from [Steam](https://store.steampow
 
 While the product is still in Early Access ( beta mode ), the WASZP Class will be giving all of their sailors who purchase an International WASZP Class Membership the opportunity to shape the way the game is played. ( [Visit our Feedback forum](https://www.marineverse.com/marineverse-cup) )
 
-Waszp sailors will join the discussion with MarineVerse Cup developers helping them improve the simulator. Everyone else who jumps in the game can be assured that by having the WASZP sailors involved in development, the game will have a level of unprecedented authenticity.
+Waszp sailors will join the discussion with MarineVerse Cup developers helping us improve the simulator. Everyone else who jumps in the game can be assured that by having the WASZP sailors involved in development, the product will have a level of unprecedented authenticity.
 
 ![Oculus Quest](https://d3mi3qsvgmg9zn.cloudfront.net/mvcup/sailinginquest.jpg)
 
 With new VR headsets, like [Oculus Quest 2](https://blog.marineverse.com/sailing/2020/09/17/best-vr-gadgets-to-buy-for-a-sailor-in-2020.html), making it easier than ever to adopt "virtual reality" now is a great time to join MarineVerse Cup.
 
-Join MarineVerse Cup Early Access program and stay tuned, as we have many exciting things planned!
+Join MarineVerse Cup Early Access program and stay tuned, as we have many exciting things planned! ( *for example [Movember Cup](https://blog.marineverse.com/cup/2020/11/01/movember-cup-competition.html)* )
 
 *Happy sailing,*
 

@@ -12,3 +12,5 @@
   - #12 [Romeo, Marina Del Rey, CA](https://blog.marineverse.com/marineverse/2020/05/16/vr-sailors-marineverse-cup-community-romeo.html)
   - #13 [Kevin, Port Elizabeth, South Africa](https://blog.marineverse.com/marineverse/2020/05/29/vr-sailors-marineverse-cup-community-kevin.html)
   - #14 [Rik, Blackpool, England](https://blog.marineverse.com/marineverse/2020/08/18/vr-sailors-marineverse-cup-community-rik.html)
+  - #15 [Captain Ben, UK](https://blog.marineverse.com/marineverse/2021/04/08/vr-sailors-marineverse-cup-community-captain-ben.html)
+

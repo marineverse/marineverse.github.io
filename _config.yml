@@ -17,6 +17,7 @@ github_username:  marineverse
 plugins: ["jekyll-paginate"]
 excerpt_separator: <!--more-->
 paginate_path: "/blog/archive/:num/"
+future: false
 
 # Build settings
 markdown: kramdown

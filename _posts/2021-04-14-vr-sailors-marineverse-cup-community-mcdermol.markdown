@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "VR Sailors - MarineVerse Community: Bot33"
+title:  "VR Sailors - MarineVerse Community: Andrew Brenton"
 date:   2021-04-14 07:00:00 +0000
 categories: marineverse
 ---

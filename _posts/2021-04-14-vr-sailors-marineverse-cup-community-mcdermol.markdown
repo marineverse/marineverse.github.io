@@ -9,7 +9,7 @@ Ahoy!
 
 Welcome to the seventeenth post in the series **"VR Sailors - MarineVerse Community"** - introducing sailors racing in [MarineVerse Cup](https://www.marineverse.com/marineverse-cup).
 
-<img src="/assets/community/mcdermol.png" style="max-width: 400px; width: 60%; margin-left: auto; margin-right: auto; display: block;"/>
+<img src="/assets/community/mcdermol.png" style="max-width: 800px; width: 100%; margin-left: auto; margin-right: auto; display: block;"/>
 
 
 Today, we are chatting with **Andrew Brenton** from United Kingdom.

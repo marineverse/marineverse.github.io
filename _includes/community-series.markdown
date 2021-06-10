@@ -15,3 +15,6 @@
   - #15 [Captain Ben, UK](https://blog.marineverse.com/marineverse/2021/04/08/vr-sailors-marineverse-cup-community-captain-ben.html)
   - #16 [Dave aka Bot33, UK](https://blog.marineverse.com/marineverse/2021/04/11/vr-sailors-marineverse-cup-community-bot33.html)
   - #17 [Andrew Brenton, UK](https://blog.marineverse.com/marineverse/2021/04/14/vr-sailors-marineverse-cup-community-mcdermol.html)
+  - #18 [Pete Hoffswell, US](https://blog.marineverse.com/marineverse/2021/06/09/vr-sailors-marineverse-cup-community-pete-hoffswell.html)
+
+  

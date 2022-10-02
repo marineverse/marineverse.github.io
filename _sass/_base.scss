@@ -25,7 +25,20 @@ body {
     font-kerning: normal;
 }
 
+.rightSideContent {
+    float: right; 
+    max-width: 400px; 
+    width: 100%; 
+    margin: 0px 0px 0px 15px;
+}
 
+@media (max-width: 600px) {
+    .rightSideContent {
+        max-width: 1000px; 
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+}
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm

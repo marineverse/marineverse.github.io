@@ -13,19 +13,18 @@ As the founder of MarineVerse, it made so much sense to me to partner with Nauti
 
 **Download:** [https://www.oculus.com/experiences/quest/2465388190184288](https://www.oculus.com/experiences/quest/2465388190184288)
 
-<img src="/assets/nauticed/PracticeAtHome.jpg" style="max-width: 740px; width: 100%; margin-left: auto; margin-right: auto; display: block;"/>
+<img src="/assets/nauticed/sailing1.jpg" style="max-width: 800px; width: 100%; margin-left: auto; margin-right: auto; display: block;"/>
 
 
 <!--more-->
 
-<img src="/assets/nauticed/sailing1.jpg" style="max-width: 800px; width: 100%; margin-left: auto; margin-right: auto; display: block;"/>
+
+<img src="/assets/nauticed/club.jpg" style="max-width: 800px; width: 100%; margin-left: auto; margin-right: auto; display: block;"/>
 
 
 “Self Mastery”, available in **NauticEd Training Room** includes several training modules to help players get comfortable with trimming the sails, managing the boat speed and navigating for various points of sail. True to our principles, it balances authenticity and entertainment in a fully immersive, virtual sailing experience. 
 
-
-
-<img src="/assets/nauticed/club.jpg" style="max-width: 800px; width: 100%; margin-left: auto; margin-right: auto; display: block;"/>
+<img src="/assets/nauticed/PracticeAtHome.jpg" style="max-width: 740px; width: 100%; margin-left: auto; margin-right: auto; display: block;"/>
 
 
 <img src="/assets/nauticed/menu_training_room.jpg" style="max-width: 800px; width: 100%; margin-left: auto; margin-right: auto; display: block;"/>

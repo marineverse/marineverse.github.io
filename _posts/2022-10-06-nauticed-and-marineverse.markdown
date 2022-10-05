@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "NauticEd and MarineVerse launch a new VR sailing course in MarineVerse Cup."
-date:   2022-10-06 01:00:00 +1100
+date:   2022-10-06 01:00:01 +1100
 categories: cup
 ---
 

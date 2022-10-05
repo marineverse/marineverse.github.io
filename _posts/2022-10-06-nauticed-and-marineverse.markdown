@@ -7,7 +7,7 @@ categories: cup
 
 Being a good sailor is first of all about competence and mastery of the boat, the wind and the sea. 
 
-[NauticEd](https://www.nauticed.org/?school=marineverse&UTM_medium=website&UTM_source=blog1) knows a lot about sailing instruction. Since 2008 it has trained over 90,000 students who have taken 280,000 courses from its [e-learning platform]((https://www.nauticed.org/?school=marineverse&UTM_medium=website&UTM_source=blog1)) and on the water courses. 
+[NauticEd](https://www.nauticed.org/?school=marineverse&UTM_medium=website&UTM_source=blog1) knows a lot about sailing instruction. Since 2008 it has trained over 90,000 students who have taken 280,000 courses from its [e-learning platform](https://www.nauticed.org/?school=marineverse&UTM_medium=website&UTM_source=blog1) and on the water courses. 
 
 As the founder of MarineVerse, it made so much sense to me to partner with NauticEd to co-develop the best possible sailing curriculum and I am excited to announce that **today we are making available to all MarineVerse Cup’s players a new  “Self Mastery” course.**
 
@@ -47,7 +47,7 @@ Over time, more complex courses like docking and maneuvering within the marina, 
 
 <br/><br/>
 
-Sailing has always been about community for me, with [NauticEd]((https://www.nauticed.org/?school=marineverse&UTM_medium=website&UTM_source=blog1)) we will make sailing instruction more affordable and accessible while inspiring, educating and entertaining our fast-growing community of sailors.
+Sailing has always been about community for me, with [NauticEd](https://www.nauticed.org/?school=marineverse&UTM_medium=website&UTM_source=blog1) we will make sailing instruction more affordable and accessible while inspiring, educating and entertaining our fast-growing community of sailors.
 
 We hope you give it a try - and [share with friends](https://www.oculus.com/experiences/quest/2465388190184288), because sailing together is much more fun! 
 

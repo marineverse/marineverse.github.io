@@ -18,4 +18,4 @@ $ jekyll serve --watch --future
 
 Where `--watch` watches the file system for chamges and re-renders (you have to refresh the browser), and `--future` includes future-dated blog entries, so you can test them before you publish.
 
-.
+..

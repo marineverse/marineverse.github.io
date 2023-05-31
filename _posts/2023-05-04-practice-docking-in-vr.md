@@ -27,15 +27,17 @@ What’s in the series?
 
 - **Momentum control:** Practise forward momentum in downwind and upwind conditions, and learn how to accelerate from a standstill.
 - **Turning:** Master turning the boat, thrust bursts, figure 8s, and downwind turning.
-- *COMING SOON* **Propwalk:** Experience and control prop walk in various situations, learn to use it to your - advantage, and overcome its challenges.
-- *COMING SOON* **Spring lines:** Learn how to use spring lines effectively in various docking scenarios.
+- **Propwalk:** Experience and control prop walk in various situations, learn to use it to your - advantage, and overcome its challenges.
+- **Spring lines:** Learn how to use spring lines effectively in various docking scenarios.
 - *COMING SOON* **Leaving the dock:** Safely go out in various wind conditions
 - *COMING SOON* **Returning to the dock:** Practise ferrying and Mediterranean mooring techniques to ensure a safe return to the marina.
 
 The  modules will be released between May 4 and June 21st and  are available as part of [MarineVerse Sailing Pass](https://www.marineverse.com/sailing-pass). This week we are releasing Momentum control and Turning.
 
-![MarineVerse Cup: Docking - Figure 8s](/assets/nauticed/docking/figure8_details.jpg)
+
+![MarineVerse Cup: Docking - Spring Lines](/assets/nauticed/docking/reverse_parking_exercise.jpg)
 ![MarineVerse Cup: Docking - Figure 8s](/assets/nauticed/docking/figure_of_8.jpg)
+![MarineVerse Cup: Docking - Figure 8s](/assets/nauticed/docking/figure8_details.jpg)
 
 If you don’t have a Sailing Pass yet, you’ll be able to access a sample exercise for free and you can upgrade anytime for a Monthly or Annual membership. 
 

@@ -29,8 +29,7 @@ What’s in the series?
 - **Turning:** Master turning the boat, thrust bursts, figure 8s, and downwind turning.
 - **Propwalk:** Experience and control prop walk in various situations, learn to use it to your - advantage, and overcome its challenges.
 - **Spring lines:** Learn how to use spring lines effectively in various docking scenarios.
-- *COMING SOON* **Leaving the dock:** Safely go out in various wind conditions
-- *COMING SOON* **Returning to the dock:** Practise ferrying and Mediterranean mooring techniques to ensure a safe return to the marina.
+- **Leaving and returning to the dock:** Safely go out in various wind conditions. Practise ferrying and Mediterranean mooring techniques to ensure a safe return to the marina.
 
 The  modules will be released between May 4 and June 21st and  are available as part of [MarineVerse Sailing Pass](https://www.marineverse.com/sailing-pass). This week we are releasing Momentum control and Turning.
 

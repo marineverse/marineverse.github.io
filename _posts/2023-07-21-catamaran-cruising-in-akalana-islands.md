@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Catamaran Cruising in Akalana Islands"
-date:   2023-07-21 14:00:00 +1100
+date:   2023-07-21 06:00:00 +1100
 categories: cup
 ---
 

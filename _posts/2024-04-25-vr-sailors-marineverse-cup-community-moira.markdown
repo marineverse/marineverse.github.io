@@ -15,7 +15,7 @@ Today, we are chatting with **Moira** from Ireland.
 
 <!--more-->
 
-In virtual reality, you can meet Moira in MarineVerse Cup as [Moira Jane](https://www.marineverse.com/de/members/aDNU4rbMhTvhC4zM12v8SWVoa4qfyquKPklpSx2beskeuHQ). In MarineVerse Cup, one of the series Moira is racing in is "Yacht Pro Spring Race Series 2024" and [as of today is #16 in the world](https://www.marineverse.com/marineverse-cup/races/weekly-race-series/IwHQmiCRDEmxb_hjAGCBEiPhVloM9uDv1--up1frzdvrtxc).
+In virtual reality, you can meet Moira in MarineVerse Cup as [Moira Jane](https://www.marineverse.com/members/aDNU4rbMhTvhC4zM12v8SWVoa4qfyquKPklpSx2beskeuHQ). In MarineVerse Cup, one of the series Moira is racing in is "Yacht Pro Spring Race Series 2024" and [as of today is #16 in the world](https://www.marineverse.com/marineverse-cup/races/weekly-race-series/IwHQmiCRDEmxb_hjAGCBEiPhVloM9uDv1--up1frzdvrtxc).
 
 <img src="/assets/community/proyacht25042024.jpg" style="max-width: 600px; width: 100%; margin-left: auto; margin-right: auto; display: block;"/>
 

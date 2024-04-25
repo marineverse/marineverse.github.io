@@ -19,6 +19,8 @@
   - #19 [Colin aka SwabbinQuincyTeach, US](https://blog.marineverse.com/marineverse/2021/09/17/vr-sailors-marineverse-cup-community-colin.html)
   - #20 [Tim from Amsterdam, Netherlands](https://blog.marineverse.com/marineverse/2022/04/11/vr-sailors-marineverse-cup-community-tim.html)
   - #21 [Peter from Oregon, USA](https://blog.marineverse.com/marineverse/2022/05/18/vr-sailors-marineverse-cup-community-peter.html)
+  - #22 [Moira from Ireland](https://blog.marineverse.com/marineverse/2024/04/24/vr-sailors-marineverse-cup-community-moira.html)
+
 
 
   

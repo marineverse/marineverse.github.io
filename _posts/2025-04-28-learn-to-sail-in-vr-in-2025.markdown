@@ -9,6 +9,14 @@ categories: marineverse sailing vr
 
 **TL;DR:** Pick up a **Meta Quest 3** and download the [**MarineVerse Sailing Club**](https://www.marineverse.com/marineverse-cup#goracingnow_a) app.
 
+**Prefer audio?**  Listen to the podcast version:
+<audio controls preload="none" style="width:100%;display:block;">
+  <source src="{{ '/assets/2025/LearningtoSailwithVR.ogg' | relative_url }}" type="audio/ogg">
+  Your browser doesn’t support the audio element. 
+</audio>
+
+<br/><br/>
+
 <img src="/assets/2025/learn_in_vr.jpg" style="max-width: 800px; width: 100%; margin-left: auto; margin-right: auto; display: block;"/>
 
 Learning to sail is a lifelong dream for many—whether you picture peaceful cruises or adrenaline-filled races. But that first step can feel daunting: access to boats, unpredictable weather, and finding the time all get in the way.

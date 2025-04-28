@@ -1,0 +1,125 @@
+/**
+ * MarineVerse Brand Styling
+ */
+
+// Brand Colors
+$brand-color: #0099e5; // Based on the blue in "virtual reality" text
+$marineverse-dark-blue: #0B3954; // For headings and important text
+
+// Typography Enhancements
+h1, h2, h3, h4, h5, h6 {
+  color: $marineverse-dark-blue;
+  font-weight: 600;
+}
+
+// Button Styling
+.button, button, input[type="submit"] {
+  background-color: $brand-color;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 4px;
+  border: none;
+  font-weight: 500;
+  text-transform: uppercase;
+  font-size: 14px;
+  transition: background-color 0.3s;
+  
+  &:hover {
+    background-color: darken($brand-color, 10%);
+    text-decoration: none;
+    color: white;
+  }
+}
+
+// Post styling enhancements
+.post-title {
+  font-size: 32px;
+  font-weight: 600;
+  color: $marineverse-dark-blue;
+}
+
+.post-link {
+  color: $marineverse-dark-blue;
+  font-weight: 500;
+  
+  &:hover {
+    color: $brand-color;
+    text-decoration: none;
+  }
+}
+
+.post-list > li {
+  padding-bottom: 20px;
+  margin-bottom: 30px;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+// Links and anchors
+a {
+  color: $brand-color;
+  transition: color 0.2s;
+  
+  &:visited {
+    color: darken($brand-color, 15%);
+  }
+  
+  &:hover {
+    color: darken($brand-color, 25%);
+  }
+}
+
+// Sailing-themed visual elements
+.page-content {
+  position: relative;
+  
+  &:before {
+    content: "";
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 200px;
+    height: 150px;
+    opacity: 0.1;
+    z-index: -1;
+    pointer-events: none;
+  }
+}
+
+// Add custom styling for the header to better match MarineVerse
+.site-header {
+  .site-title img {
+    margin-right: 10px;
+    vertical-align: middle;
+  }
+}
+
+// Improve readability of post content
+.post-content {
+  p {
+    margin-bottom: 20px;
+    line-height: 1.6;
+  }
+  
+  h2 {
+    font-size: 28px;
+    margin-top: 30px;
+    
+    @include media-query($on-laptop) {
+      font-size: 24px;
+    }
+  }
+  
+  h3 {
+    font-size: 22px;
+    
+    @include media-query($on-laptop) {
+      font-size: 20px;
+    }
+  }
+  
+  img {
+    margin: 20px 0;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  }
+}

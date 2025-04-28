@@ -9,6 +9,8 @@ categories: marineverse sailing vr
 
 **TL;DR:** Pick up a **Meta Quest 3** and download the [**MarineVerse Sailing Club**](https://www.marineverse.com/marineverse-cup#goracingnow_a) app.
 
+<img src="/assets/2025/learn_in_vr.jpg" style="max-width: 800px; width: 100%; margin-left: auto; margin-right: auto; display: block;"/>
+
 Learning to sail is a lifelong dream for many—whether you picture peaceful cruises or adrenaline-filled races. But that first step can feel daunting: access to boats, unpredictable weather, and finding the time all get in the way.
 
 **What if you could step onto a sailboat right now from your living room?**
@@ -37,6 +39,8 @@ Modern physics engines—even showing details like **prop walk** in reverse—ma
 * **Repetition Equals Mastery:** **Repeat maneuvers endlessly** without paying extra.
 * **Bridge Theory and Practice:** Turn book knowledge into hands-on skills.
 * **Boost Confidence:** Gain competence in a safe space, so your first real-world lesson feels easy.
+
+<img src="/assets/2025/vrlessons.jpg" style="max-width: 800px; width: 100%; margin-left: auto; margin-right: auto; display: block;"/>
 
 ## Recommended Setup: Meta Quest 3 + MarineVerse Sailing Club
 

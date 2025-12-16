@@ -21,8 +21,8 @@
   - #21 [Peter from Oregon, USA](https://blog.marineverse.com/marineverse/2022/05/18/vr-sailors-marineverse-cup-community-peter.html)
   - #22 [Moira from Ireland](https://blog.marineverse.com/marineverse/2024/04/24/vr-sailors-marineverse-cup-community-moira.html)
   - #23 [Finnbuck from Pennsylvania, USA](https://blog.marineverse.com/marineverse/2025/01/29/vr-sailors-marineverse-sailing-club-finnbuck.html)
-  - #24 [Marc from Toronto, Canada](https://blog.marineverse.com/marineverse/2025/12/16/vr-sailors-marineverse-sailing-club-mdorval.html)
-  - #25 [JJ from Calgary, Canada](https://blog.marineverse.com/marineverse/2025/12/17/vr-sailors-marineverse-sailing-club-jj.html)
+  - #24 [Marc from Toronto, Canada](https://blog.marineverse.com/marineverse/2025/12/15/vr-sailors-marineverse-sailing-club-mdorval.html)
+  - #25 [JJ from Calgary, Canada](https://blog.marineverse.com/marineverse/2025/12/16/vr-sailors-marineverse-sailing-club-jj.html)
 
 
   

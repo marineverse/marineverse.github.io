@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Mastering Twin Engines: Catamaran Docking Comes to MarineVerse Sailing Club!"
-date:   2025-12-20 14:00:00 +1100
-categories: cup
+date:   2025-12-20 07:00:00 +1100
+categories: nauticed marineverse
 ---
 
 Docking. It's the moment where even seasoned sailors hold their breath. The wind catches the bow, the current pushes the stern, and suddenly that slip looks very narrow.

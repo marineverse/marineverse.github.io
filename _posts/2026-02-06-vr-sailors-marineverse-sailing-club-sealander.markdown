@@ -16,7 +16,9 @@ Today, we are chatting with **Bill Starr** (Sealander) from Dover, NH USA.
 
 <!--more-->
 
-In virtual reality, you can meet Bill in MarineVerse Sailing Club as [Sealander](https://www.marineverse.com/marineverse-cup/race/ooDJyw5KEKMh7MT4lmUrFi76-poetyY8yvhcracoC69zYq0) (sail number 24060). Bill races in Yacht Pro with a current DRP rating of 1398, and recently placed 7th in the Yacht Pro Daily Race in Enoshima on February 4, 2026.
+In virtual reality, you can meet Bill in MarineVerse Sailing Club as [Sealander](https://www.marineverse.com/marineverse-cup/race/ooDJyw5KEKMh7MT4lmUrFi76-poetyY8yvhcracoC69zYq0) (sail number 24060). Bill races in Yacht Pro with a current DRP rating of 1398, and recently placed 7th in the [Yacht Pro Daily Race in Enoshima on February 4, 2026](https://www.marineverse.com/marineverse-cup/race/ooDJyw5KEKMh7MT4lmUrFi76-poetyY8yvhcracoC69zYq0).
+
+<img src="/assets/community/sealander/sealander_race.png" style="max-width: 600px; width: 100%; margin-left: auto; margin-right: auto; display: block;"/>
 
 We have asked Bill a couple of questions..
 

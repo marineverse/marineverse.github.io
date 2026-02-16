@@ -23,4 +23,5 @@
   - #23 [Finnbuck from Pennsylvania, USA](https://blog.marineverse.com/marineverse/2025/01/29/vr-sailors-marineverse-sailing-club-finnbuck.html)
   - #24 [Marc from Toronto, Canada](https://blog.marineverse.com/marineverse/2025/12/15/vr-sailors-marineverse-sailing-club-mdorval.html)
   - #25 [JJ from Calgary, Canada](https://blog.marineverse.com/marineverse/2025/12/16/vr-sailors-marineverse-sailing-club-jj.html)
-  - #26 [Bill from Dover, NH USA](https://blog.marineverse.com/marineverse/2026/02/05/vr-sailors-marineverse-sailing-club-sealander.html)  
+  - #26 [Bill from Dover, NH USA](https://blog.marineverse.com/marineverse/2026/02/05/vr-sailors-marineverse-sailing-club-sealander.html)
+ - #27 [Filippo from Leeds, UK](https://blog.marineverse.com/marineverse/2026/02/15/vr-sailors-marineverse-sailing-club-filippo.html)

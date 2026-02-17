@@ -25,3 +25,4 @@
   - #25 [JJ from Calgary, Canada](https://blog.marineverse.com/marineverse/2025/12/16/vr-sailors-marineverse-sailing-club-jj.html)
   - #26 [Bill from Dover, NH USA](https://blog.marineverse.com/marineverse/2026/02/05/vr-sailors-marineverse-sailing-club-sealander.html)
  - #27 [Filippo from Leeds, UK](https://blog.marineverse.com/marineverse/2026/02/15/vr-sailors-marineverse-sailing-club-filippo.html)
+- #28 [Jason Thomas from Lausanne, Switzerland](https://blog.marineverse.com/marineverse/2026/02/16/vr-sailors-marineverse-sailing-club-sailorjason.html)

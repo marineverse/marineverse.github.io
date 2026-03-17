@@ -17,7 +17,7 @@ The inaugural event marked a significant step forward for accessible sailing, in
 
 ## World's First Virtual Reality Hansa Class Competition
 
-Held alongside the **[2026 SKUD 18 International Match Race Challenge](https://sailabilityauckland.org.nz/public/schedule/events/76486-2026-skud-18-international-match-race-challenge) in Auckland — itself another world first** — the International Hansa 303 Virtual Sailing Challenge quickly became a focal point of activity onshore. While sailors rotated on and off the water during racing, volunteers, caregivers and spectators gathered around the Virtual Reality setup to watch and take part in the virtual regatta.
+Held alongside the **[2026 SKUD 18 International Match Race Challenge](https://sailabilityauckland.org.nz/public/schedule/events/76486-2026-skud-18-international-match-race-challenge) in Auckland from 20th to 22nd Feb, 2026 — itself another world first** — the International Hansa 303 Virtual Sailing Challenge quickly became a focal point of activity onshore. While sailors rotated on and off the water during racing, volunteers, caregivers and spectators gathered around the Virtual Reality setup to watch and take part in the virtual regatta.
 
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/xkF4gbWTFAY?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 

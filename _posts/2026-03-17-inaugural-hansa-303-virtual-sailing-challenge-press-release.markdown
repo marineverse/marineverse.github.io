@@ -7,7 +7,7 @@ categories: marineverse sailing vr hansa
 
 **FOR IMMEDIATE RELEASE**
 
-**Melbourne, Australia – March 17, 2026** – A champion has been crowned at the **world's first International Hansa 303 Virtual Sailing Challenge**, held using [**MarineVerse Sailing Club**](https://www.meta.com/en-gb/experiences/marineverse-sailing-club/2465388190184288), the virtual reality sailing platform designed to make sailing more accessible, engaging and social.
+**Melbourne, Australia – March 16, 2026** – A champion has been crowned at the **world's first International Hansa 303 Virtual Sailing Challenge**, held using [**MarineVerse Sailing Club**](https://www.meta.com/en-gb/experiences/marineverse-sailing-club/2465388190184288), the virtual reality sailing platform designed to make sailing more accessible, engaging and social.
 
 <img src="/assets/hansa303regatta/image2.jpg" style="max-width: 800px; width: 100%; margin-left: auto; margin-right: auto; display: block;"/>
 

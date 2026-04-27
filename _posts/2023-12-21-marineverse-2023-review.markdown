@@ -3,6 +3,7 @@ layout: post
 title:  "MarineVerse 2023 Review"
 date:   2023-12-21 04:00:00 +1100
 categories: cup
+tags: product-updates
 ---
 
 Time flies! 

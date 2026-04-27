@@ -3,6 +3,7 @@ layout: post
 title: "VR Regatta @ Volvo Ocean Race in Melbourne"
 date: 2018-01-07 09:00:00 +1100
 categories: sailing vr
+tags: events
 ---
 
 **VR Regatta has been experienced by hundreds of people during Volvo Ocean Race stopover in Melbourne.**

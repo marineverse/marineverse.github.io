@@ -3,6 +3,7 @@ layout: post
 title: "Improved VR Regatta ships to the Oculus Home"
 date: 2018-09-14 08:00:01 +1100
 categories: games
+tags: product-updates
 ---
 
 ## Never sailed before? Discover sailing in virtual reality

@@ -3,6 +3,7 @@ layout: post
 title: "Promoting sailing during GP"
 date: 2017-03-31 12:00:00 +1100
 categories: vr
+tags: events
 ---
 
 Last weekend over 100 people tried virtual reality sailing experience delivered by MarineVerse during Australian Grand Prix:

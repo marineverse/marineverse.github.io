@@ -3,6 +3,7 @@ layout: post
 title:  "MarineVerse Cup on the Oculus Quest App Lab store"
 date:   2021-02-03 06:00:00 +1100
 categories: cup
+tags: product-updates
 ---
 
   > Learn, race & try sailing with your Oculus Quest!

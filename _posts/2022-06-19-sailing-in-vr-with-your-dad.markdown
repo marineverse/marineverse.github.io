@@ -3,6 +3,7 @@ layout: post
 title:  "Sailing in VR with your Dad!"
 date:   2022-06-19 07:00:00 +1100
 categories: marineverse
+tags: sailor-stories
 ---
 
 Sailing has always been a multigenerational activity that connects kids with parents. 

@@ -3,6 +3,7 @@ layout: post
 title:  "MarineVerse 2022 Review"
 date:   2022-12-21 04:00:00 +1100
 categories: cup
+tags: product-updates
 ---
 
 As we near the end of the year, we wanted to take a moment to reflect on 2022 and share some behind-the-scenes updates with you. 

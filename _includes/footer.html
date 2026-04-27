@@ -2,35 +2,48 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
     <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li><a href="http://www.marineverse.com">MarineVerse</a></li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-      </div>
 
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
+      <div class="footer-col footer-brand">
+        <h3 class="footer-col-heading">{{ site.title }}</h3>
         <p>{{ site.description }}</p>
+        <p class="footer-copyright">&copy; {{ site.time | date: '%Y' }} MarineVerse</p>
       </div>
+
+      <div class="footer-col">
+        <h3 class="footer-col-heading">Explore</h3>
+        <ul class="footer-link-list">
+          <li><a href="/categories/case-studies/">Case Studies</a></li>
+          <li><a href="/categories/sailor-stories/">Sailor Stories</a></li>
+          <li><a href="/categories/product-updates/">Product Updates</a></li>
+          <li><a href="/categories/practice-guides/">Practice Guides</a></li>
+          <li><a href="/categories/events/">Events</a></li>
+          <li><a href="/categories/globe/">Globe</a></li>
+          <li><a href="{{ site.baseurl }}/">All Posts</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h3 class="footer-col-heading">MarineVerse</h3>
+        <ul class="footer-link-list">
+          <li><a href="https://www.marineverse.com/about">About</a></li>
+          <li><a href="https://www.marineverse.com/marineverse-cup">Sailing Club</a></li>
+          <li><a href="https://www.marineverse.com/globe">Globe</a></li>
+          <li><a href="https://store.steampowered.com/app/1035320/MarineVerse_Cup__Yacht_Racing/">Get on Steam</a></li>
+          <li><a href="https://www.oculus.com/experiences/quest/2465388190184288/">Get on Meta Quest</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h3 class="footer-col-heading">Connect</h3>
+        <ul class="footer-link-list">
+          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li><a href="https://discord.gg/TjMkqzd">Discord</a></li>
+          {% if site.twitter_username %}<li><a href="https://twitter.com/{{ site.twitter_username }}">Twitter</a></li>{% endif %}
+          <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></li>
+        </ul>
+      </div>
+
     </div>
 
   </div>

@@ -3,6 +3,7 @@ layout: post
 title: "MarineVerse @PauseFest 2017"
 date: 2017-02-10 12:00:00 +1100
 categories: vr
+tags: events
 ---
 
 Sharing Virtual Reality sailing with Melbourne - PauseFest 2017!

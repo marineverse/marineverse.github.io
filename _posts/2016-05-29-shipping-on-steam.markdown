@@ -3,6 +3,7 @@ layout: post
 title:  "Shipping on Steam"
 date:   2016-05-29 05:00:00 +1100
 categories: virtualreality sailing
+tags: product-updates
 ---
 
 Celebrating VR Regatta launch on Steam next week, we've created a series of short tweets showcasing some of the gameplay:

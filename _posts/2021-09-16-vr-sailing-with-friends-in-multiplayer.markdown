@@ -3,6 +3,7 @@ layout: post
 title:  "VR Sailing with friends in multiplayer"
 date:   2021-09-16 06:00:00 +1100
 categories: cup
+tags: practice-guides
 ---
 
 **Multiplayer sailing..** 

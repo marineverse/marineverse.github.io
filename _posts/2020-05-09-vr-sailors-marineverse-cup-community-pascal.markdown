@@ -3,6 +3,7 @@ layout: post
 title:  "VR Sailors - MarineVerse Community: Pascal"
 date:   2020-05-09 07:00:00 +1100
 categories: marineverse
+tags: sailor-stories
 ---
 
 Ahoy!

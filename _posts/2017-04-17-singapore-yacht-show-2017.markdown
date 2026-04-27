@@ -3,6 +3,7 @@ layout: post
 title: "Singapore Yacht Show 2017"
 date: 2017-04-17 12:00:00 +1100
 categories: events
+tags: events
 ---
 
 [VR Regatta](http://store.steampowered.com/app/468240) was recently presented at Yacht Show in Singapore.

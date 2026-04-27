@@ -3,6 +3,7 @@ layout: post
 title:  "VR Sailors - MarineVerse Community: Jon 'Bofh'"
 date:   2020-02-07 08:00:00 +1100
 categories: marineverse
+tags: sailor-stories
 ---
 
 Ahoy!

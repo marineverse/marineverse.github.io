@@ -3,6 +3,7 @@ layout: post
 title: "Promoting sailing at Melbourne Boat Show"
 date: 2018-07-02 09:00:01 +1100
 categories: marketing
+tags: events
 ---
 
 MarineVerse team worked together with Australian Sailing to promote sailing during Boat Show in Melbourne.

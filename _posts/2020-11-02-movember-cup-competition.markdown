@@ -3,6 +3,7 @@ layout: post
 title:  "Movember Cup Competition ( 2020 )"
 date:   2020-11-02 07:00:00 +1100
 categories: cup
+tags: events
 ---
 
 <img src="https://d3mi3qsvgmg9zn.cloudfront.net/mvcup/waszp/movember.png" style="max-width: 800px; width: 100%; margin-left: auto; margin-right: auto; display: block;"/>

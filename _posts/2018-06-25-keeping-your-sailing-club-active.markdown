@@ -3,6 +3,7 @@ layout: post
 title: "Keeping your sailing club active"
 date: 2018-06-25 09:00:00 +1100
 categories: marketing
+tags: case-studies
 ---
 
 <img src="/assets/forclubs.jpg" style="max-width: 800px; width: 100%;"/>

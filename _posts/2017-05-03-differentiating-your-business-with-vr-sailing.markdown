@@ -3,6 +3,7 @@ layout: post
 title: "Differentiating your business with vr sailing"
 date: 2017-05-03 12:00:00 +1100
 categories: marketing
+tags: case-studies
 ---
 
 [MarineVerse Events](https://www.marineverse.com/events)

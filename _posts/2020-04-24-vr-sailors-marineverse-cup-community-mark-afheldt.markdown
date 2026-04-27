@@ -3,6 +3,7 @@ layout: post
 title:  "VR Sailors - MarineVerse Community: Mark Afheldt"
 date:   2020-04-24 07:00:00 +1100
 categories: marineverse
+tags: sailor-stories
 ---
 
 Ahoy!

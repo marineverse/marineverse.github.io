@@ -3,6 +3,7 @@ layout: post
 title:  "VR Sailors - MarineVerse Community: Marc (MDorval)"
 date:   2025-12-16 07:00:00 +1100
 categories: marineverse
+tags: sailor-stories
 ---
 
 Ahoy!

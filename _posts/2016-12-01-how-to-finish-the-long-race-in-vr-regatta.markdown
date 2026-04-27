@@ -3,6 +3,7 @@ layout: post
 title:  "How to finish The Long Race in VR Regatta"
 date:   2016-12-01 12:00:00 +1100
 categories: htcvive
+tags: practice-guides
 ---
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/6C4QHAVLVRY?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

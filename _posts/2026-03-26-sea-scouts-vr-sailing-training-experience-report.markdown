@@ -3,6 +3,7 @@ layout: post
 title:  "From VR to Real Water: How Sea Scouts Used MarineVerse for Winter Sailing Training"
 date:   2026-03-26 07:00:00 +1100
 categories: marineverse sailing vr
+tags: case-studies
 ---
 
 <img src="/assets/scouts_experience/0_hero_vr_to_real_path.jpg" style="max-width: 800px; width: 100%; margin-left: auto; margin-right: auto; display: block;"/>

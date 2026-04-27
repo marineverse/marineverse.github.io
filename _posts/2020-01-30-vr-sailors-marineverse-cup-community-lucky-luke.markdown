@@ -3,6 +3,7 @@ layout: post
 title:  "VR Sailors - MarineVerse Community: Lucky Luke"
 date:   2020-01-30 08:00:00 +1100
 categories: marineverse
+tags: sailor-stories
 ---
 
 Ahoy!

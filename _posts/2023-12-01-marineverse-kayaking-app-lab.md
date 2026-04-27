@@ -3,6 +3,7 @@ layout: post
 title:  "MarineVerse Kayaking Now Available on App Lab"
 date:   2023-12-01 06:00:00 +1100
 categories: kayaking
+tags: product-updates
 ---
 
 **Dive into a New Virtual Reality Experience with MarineVerse Kayaking:**

@@ -1,0 +1,25 @@
+---
+layout: default
+title: Globe
+permalink: /categories/globe/
+---
+<div class="home category-page">
+  <h1 class="page-heading">MarineVerse Globe</h1>
+  <p class="category-intro">Sail the real world, in real time — Globe race reports, voyages, and storytelling.</p>
+
+  {% if site.tags['globe'] %}
+    <ul class="post-list">
+      {% assign posts = site.tags['globe'] | sort: 'date' | reverse %}
+      {% for post in posts %}
+        <li>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+          {% if post.excerpt %}{{ post.excerpt }}{% endif %}
+          <p><a href="{{ post.url | prepend: site.baseurl }}">Read more..</a></p>
+        </li>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <p>No posts yet — check back soon.</p>
+  {% endif %}
+</div>

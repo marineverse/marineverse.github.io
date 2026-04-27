@@ -3,6 +3,7 @@ layout: post
 title:  "MarineVerse Cup is Now MarineVerse Sailing Club!"
 date:   2024-12-15 07:00:00 +1100
 categories: marineverse
+tags: product-updates
 ---
 
 **Ahoy, MarineVerse Community!**

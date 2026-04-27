@@ -3,6 +3,7 @@ layout: post
 title:  "VR Sailors - MarineVerse Community: Filippo Ferrante"
 date:   2026-02-16 07:00:00 +1100
 categories: marineverse
+tags: sailor-stories
 ---
 
 Ahoy!

@@ -3,6 +3,7 @@ layout: post
 title:  "Melbourne to Wellington: The final 100 miles & new storytelling tools"
 date:   2025-12-02 08:00:00 +1100
 categories: marineverse globe
+tags: [product-updates, globe]
 ---
 
 **If you've ever wanted to experience the rhythm of offshore sailing—the strategy, the watchkeeping, and the long game—MarineVerse Globe is built for you.**

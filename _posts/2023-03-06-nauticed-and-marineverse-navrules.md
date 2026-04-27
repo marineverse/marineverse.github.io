@@ -3,6 +3,7 @@ layout: post
 title:  "World's First Virtual Reality Navigation Rules Course"
 date:   2023-03-06 14:00:00 +1100
 categories: cup
+tags: case-studies
 ---
 NauticEd and MarineVerse Launch World’s First Virtual Reality Navigation Rules Course in [MarineVerse Cup](https://www.oculus.com/experiences/quest/2465388190184288/). 
 

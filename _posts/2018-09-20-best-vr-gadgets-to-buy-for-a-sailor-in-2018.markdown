@@ -3,6 +3,7 @@ layout: post
 title:  "The best VR gadgets to buy for a sailor in 2018"
 date:   2018-09-20 9:00:00 +1100
 categories: sailing
+tags: practice-guides
 ---
 
 [Go here for 2020 edition of the best VR gadgets to buy for a sailor.](https://blog.marineverse.com/sailing/2020/09/17/best-vr-gadgets-to-buy-for-a-sailor-in-2020.html)

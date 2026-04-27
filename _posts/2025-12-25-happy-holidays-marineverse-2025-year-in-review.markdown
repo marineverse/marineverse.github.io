@@ -3,6 +3,7 @@ layout: post
 title:  "Happy Holidays from MarineVerse! 2025 Year in Review + Holiday Sailing Ideas"
 date:   2025-12-25 07:00:00 +1100
 categories: marineverse
+tags: product-updates
 ---
 
 Ahoy MarineVerse Community!

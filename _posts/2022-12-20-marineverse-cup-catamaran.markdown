@@ -3,6 +3,7 @@ layout: post
 title:  "MarineVerse Cup Catamaran"
 date:   2022-12-20 04:00:00 +1100
 categories: cup
+tags: product-updates
 ---
 
 What comes to mind when you hear “catamaran" ?

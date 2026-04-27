@@ -3,6 +3,7 @@ layout: post
 title:  "VR Regatta 0.4"
 date:   2016-07-22 12:00:00 +1100
 categories: sailing htcvive
+tags: product-updates
 ---
 VR Regatta 0.4 has shipped :-)
 

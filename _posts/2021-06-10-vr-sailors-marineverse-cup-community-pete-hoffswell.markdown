@@ -3,6 +3,7 @@ layout: post
 title:  "VR Sailors - MarineVerse Community: Pete Hoffswell"
 date:   2021-06-10 07:00:00 +1100
 categories: marineverse
+tags: sailor-stories
 ---
 
 Ahoy!

@@ -3,6 +3,7 @@ layout: post
 title: "Discover sailing during Volvo Ocean Race in Melbourne with VR Regatta"
 date: 2017-12-12 09:00:00 +1100
 categories: sailing vr
+tags: events
 ---
 
 <img src="/assets/volvobanner.jpg" style="max-width: 800px; width: 100%"/>

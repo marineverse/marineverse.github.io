@@ -3,6 +3,7 @@ layout: post
 title:  "Hansa 303 Sets Sail in MarineVerse, Making Virtual Reality Sailing Accessible to Everyone"
 date:   2025-12-19 04:00:00 +1100
 categories: marineverse sailing vr hansa
+tags: product-updates
 ---
 
 **FOR IMMEDIATE RELEASE**

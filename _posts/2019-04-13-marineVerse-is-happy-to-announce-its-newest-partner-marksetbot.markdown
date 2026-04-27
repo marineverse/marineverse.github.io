@@ -3,6 +3,7 @@ layout: post
 title:  "MarineVerse is happy to announce its newest partner: MarkSetBot"
 date:   2019-04-13 04:00:00 +1100
 categories: startup
+tags: case-studies
 ---
 [DOWNLOAD Press release as PDF.](https://d3mi3qsvgmg9zn.cloudfront.net/MSB_andMarineVerse.pdf)
 

@@ -1,0 +1,25 @@
+---
+layout: default
+title: Sailor Stories
+permalink: /categories/sailor-stories/
+---
+<div class="home category-page">
+  <h1 class="page-heading">Sailor Stories</h1>
+  <p class="category-intro">Profiles, voyages, and experiences from the MarineVerse community.</p>
+
+  {% if site.tags['sailor-stories'] %}
+    <ul class="post-list">
+      {% assign posts = site.tags['sailor-stories'] | sort: 'date' | reverse %}
+      {% for post in posts %}
+        <li>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+          {% if post.excerpt %}{{ post.excerpt }}{% endif %}
+          <p><a href="{{ post.url | prepend: site.baseurl }}">Read more..</a></p>
+        </li>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <p>No posts yet — check back soon.</p>
+  {% endif %}
+</div>

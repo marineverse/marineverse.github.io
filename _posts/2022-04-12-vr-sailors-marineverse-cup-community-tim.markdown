@@ -3,6 +3,7 @@ layout: post
 title:  "VR Sailors - MarineVerse Community: Tim"
 date:   2022-04-12 07:00:00 +1100
 categories: marineverse
+tags: sailor-stories
 ---
 
 Ahoy!

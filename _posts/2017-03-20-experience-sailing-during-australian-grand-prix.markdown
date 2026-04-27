@@ -3,6 +3,7 @@ layout: post
 title: "Experience Sailing During Australian Grand Prix"
 date: 2017-03-20 12:00:00 +1100
 categories: vr
+tags: events
 ---
 
 <img src="/assets/racingboats.jpg" style="max-width: 515px; width: 100%"/>

@@ -3,6 +3,7 @@ layout: post
 title:  "VR Regatta nominated for Viveport Developer Award 2019!"
 date:   2019-02-27 09:00:00 +1100
 categories: startup
+tags: product-updates
 ---
 
 ![VDA3](/assets/VDA3.png)

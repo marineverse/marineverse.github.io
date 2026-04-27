@@ -3,6 +3,7 @@ layout: post
 title:  "Take the helm in Virtual Reality"
 date:   2016-10-29 12:00:00 +1100
 categories: sailing vr
+tags: practice-guides
 ---
 
 Tell your friends about [VR Regatta](http://store.steampowered.com/app/468240) - print and bring to a club - thank you :-)

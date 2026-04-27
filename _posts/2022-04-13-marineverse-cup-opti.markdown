@@ -3,6 +3,7 @@ layout: post
 title:  "MarineVerse Cup Opti"
 date:   2022-04-13 04:00:00 +1100
 categories: cup
+tags: product-updates
 ---
 
 

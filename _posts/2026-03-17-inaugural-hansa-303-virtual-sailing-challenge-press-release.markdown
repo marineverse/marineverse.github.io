@@ -3,6 +3,7 @@ layout: post
 title:  "Champion Crowned at the Inaugural International Hansa 303 Virtual Sailing Challenge"
 date:   2026-03-17 04:00:00 +1100
 categories: marineverse sailing vr hansa
+tags: [case-studies, events]
 ---
 
 **FOR IMMEDIATE RELEASE**

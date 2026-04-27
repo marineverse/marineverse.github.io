@@ -3,6 +3,7 @@ layout: post
 title:  "How to Sail Upwind in MarineVerse Cup?"
 date:   2022-02-03 06:00:00 +1100
 categories: cup
+tags: practice-guides
 ---
 
 New MarineVerse Cup Video Shows How VR Can Help Transform You Into A Sailing Pro: 

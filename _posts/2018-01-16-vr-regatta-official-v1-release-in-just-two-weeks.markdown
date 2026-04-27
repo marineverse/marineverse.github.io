@@ -3,6 +3,7 @@ layout: post
 title: "VR Regatta official v1.0 release coming in just two weeks!"
 date: 2018-01-16 09:00:00 +1100
 categories: sailing
+tags: product-updates
 ---
 
 <a href="http://store.steampowered.com/app/468240/VR_Regatta__The_Sailing_Game/">

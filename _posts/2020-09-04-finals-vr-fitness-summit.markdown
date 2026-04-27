@@ -3,6 +3,7 @@ layout: post
 title:  "Finals - VR Fitness Summit ( 2020 )"
 date:   2020-09-04 07:00:00 +1100
 categories: cup
+tags: events
 ---
 
 **VR Fitness Summit** with a total prize pool of more than $25,000 and [over 40 game studios participating](https://www.vrfitnessinsider.com/virtual-athletics-league-to-host-worlds-largest-vr-fitness-summit/) was a defining moment for fitness in Virtual Reality.

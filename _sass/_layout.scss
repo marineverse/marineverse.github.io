@@ -32,6 +32,10 @@
 
     .menu-icon {
         display: none;
+        background: transparent;
+        border: 0;
+        padding: 0;
+        cursor: pointer;
     }
 
     .page-link {
@@ -57,10 +61,9 @@
         .menu-icon {
             display: block;
             float: right;
-            width: 36px;
-            height: 26px;
+            width: 44px;
+            height: 44px;
             line-height: 0;
-            padding-top: 10px;
             text-align: center;
 
             > svg {
@@ -78,7 +81,7 @@
             display: none;
         }
 
-        &:hover .trigger {
+        &.is-open .trigger {
             display: block;
             padding-bottom: 5px;
         }
@@ -113,57 +116,60 @@
 }
 
 .contact-list,
-.social-media-list {
+.social-media-list,
+.footer-link-list {
     list-style: none;
     margin-left: 0;
+}
+
+.footer-link-list li {
+    margin-bottom: 6px;
 }
 
 .footer-col-wrapper {
     font-size: 15px;
     color: $grey-color;
-    margin-left: -$spacing-unit / 2;
-    @extend %clearfix;
+    display: flex;
+    flex-wrap: wrap;
+    gap: $spacing-unit;
 }
 
 .footer-col {
-    float: left;
+    flex: 1 1 calc(25% - #{$spacing-unit});
+    min-width: 160px;
     margin-bottom: $spacing-unit / 2;
-    padding-left: $spacing-unit / 2;
 }
 
-.footer-col-1 {
-    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-    width:         calc(35% - (#{$spacing-unit} / 2));
+.footer-col-heading {
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: $marineverse-dark-blue;
+    margin-bottom: 12px;
 }
 
-.footer-col-2 {
-    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-    width:         calc(20% - (#{$spacing-unit} / 2));
+.footer-brand {
+    p {
+        margin: 0 0 8px 0;
+    }
 }
 
-.footer-col-3 {
-    width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-    width:         calc(45% - (#{$spacing-unit} / 2));
+.footer-copyright {
+    font-size: 13px;
+    color: $grey-color;
+    margin-top: 12px;
 }
 
 @include media-query($on-laptop) {
-    .footer-col-1,
-    .footer-col-2 {
-        width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-        width:         calc(50% - (#{$spacing-unit} / 2));
-    }
-
-    .footer-col-3 {
-        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width:         calc(100% - (#{$spacing-unit} / 2));
+    .footer-col {
+        flex-basis: calc(50% - #{$spacing-unit});
     }
 }
 
 @include media-query($on-palm) {
     .footer-col {
-        float: none;
-        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width:         calc(100% - (#{$spacing-unit} / 2));
+        flex-basis: 100%;
     }
 }
 

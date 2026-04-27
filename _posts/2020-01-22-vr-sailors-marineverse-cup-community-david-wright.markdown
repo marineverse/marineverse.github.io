@@ -3,6 +3,7 @@ layout: post
 title:  "VR Sailors - MarineVerse Community: David Wright"
 date:   2020-01-22 08:00:00 +1100
 categories: marineverse
+tags: sailor-stories
 ---
 
 Ahoy!

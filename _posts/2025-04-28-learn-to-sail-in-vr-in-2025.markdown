@@ -3,6 +3,7 @@ layout: post
 title:  "Learn to Sail in VR in 2025: Your Ultimate Guide to Getting Started (Meta Quest 3 + MarineVerse)"
 date:   2025-04-28 07:00:00 +1100
 categories: marineverse sailing vr
+tags: [product-updates, practice-guides]
 ---
 
 **Ahoy there!**

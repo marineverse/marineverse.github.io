@@ -3,6 +3,7 @@ layout: post
 title:  "VR Sailors - MarineVerse Community: Jason Thomas"
 date:   2026-02-17 07:00:00 +1100
 categories: marineverse
+tags: sailor-stories
 ---
 
 Ahoy!

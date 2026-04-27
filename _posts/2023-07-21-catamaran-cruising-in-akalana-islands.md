@@ -3,6 +3,7 @@ layout: post
 title:  "Catamaran Cruising in Akalana Islands"
 date:   2023-07-21 06:00:00 +1100
 categories: cup
+tags: practice-guides
 ---
 
 Embark on a tranquil Catamaran cruising adventure in the captivating Akalana Islands this summer in [MarineVerse Cup](https://www.oculus.com/experiences/quest/2465388190184288/?utm_source=mvblog):

@@ -3,6 +3,7 @@ layout: post
 title:  "10,000 Pancake Sailors!"
 date:   2020-04-23 08:00:00 +1100
 categories: marineverse
+tags: product-updates
 ---
 
 ![Jon](/assets/10k_pancake_sailors.jpg)

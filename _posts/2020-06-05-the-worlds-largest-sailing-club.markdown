@@ -3,6 +3,7 @@ layout: post
 title:  "The world's largest sailing club"
 date:   2020-06-03 07:00:00 +1100
 categories: marineverse
+tags: product-updates
 ---
 
 **MarineVerse** democratizes sailing.

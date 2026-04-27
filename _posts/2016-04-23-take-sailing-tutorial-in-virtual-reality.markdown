@@ -3,6 +3,7 @@ layout: post
 title:  "Take sailing tutorial in virtual reality"
 date:   2016-04-23 23:00:00 +1100
 categories: vr sailing gearvr
+tags: practice-guides
 ---
 
 Thanks to the latest update to [VR Regatta for GearVR](http://sideloadvr.com/detail.php?id=10012) you can now learn some sailing in virtual reality. Check out this gameplay video:

@@ -3,6 +3,7 @@ layout: post
 title:  "VR Sailors - MarineVerse Community: Kevin"
 date:   2020-05-30 07:00:00 +1100
 categories: marineverse
+tags: sailor-stories
 ---
 
 Ahoy!

@@ -3,6 +3,7 @@ layout: post
 title:  "Introducing MarineVerse Globe (Beta): Sail the Real World, in Real Time"
 date:   2025-08-15 08:00:00 +1100
 categories: marineverse globe
+tags: [product-updates, globe]
 ---
 
 **Big picture:** [MarineVerse Globe](https://www.marineverse.com/globe) lets you set a course on a 36-foot cruising yacht and cross oceans in real time with weather driven by actual forecasts. Sunrise, sunset, stars, squalls—the sim mirrors the world, day and night. Your boat keeps sailing while you're offline, so a long passage really takes… a long passage. Weeks to cross the Pacific feels like weeks—by design.

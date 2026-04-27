@@ -3,6 +3,7 @@ layout: post
 title:  "VR Sailors - MarineVerse Community: Nelson Livingston"
 date:   2020-02-28 07:00:00 +1100
 categories: marineverse
+tags: sailor-stories
 ---
 
 Ahoy!

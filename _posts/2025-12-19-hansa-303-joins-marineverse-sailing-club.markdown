@@ -3,6 +3,7 @@ layout: post
 title:  "Setting Sail for Everyone: The Hansa 303 Joins MarineVerse Sailing Club"
 date:   2025-12-19 05:00:00 +1100
 categories: marineverse sailing vr hansa
+tags: product-updates
 ---
 
 **TL;DR:** The world's most accessible sailing boat, the Hansa 303, is now live in MarineVerse Sailing Club. With its VR-perfect joystick controls, it's now our default training boat, making sailing truly accessible for all abilities.

@@ -3,6 +3,7 @@ layout: post
 title:  "New yacht and beautiful water in VR Regatta"
 date:   2016-10-22 12:00:00 +1100
 categories: sailing vr
+tags: product-updates
 ---
 
 <a href="http://store.steampowered.com/app/468240">

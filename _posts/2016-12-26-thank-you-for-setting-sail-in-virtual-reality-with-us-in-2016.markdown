@@ -3,6 +3,7 @@ layout: post
 title: "Thank you for setting sail in Virtual Reality with us in 2016"
 date: 2016-12-26 12:00:00 +1100
 categories: vr
+tags: product-updates
 ---
 
 

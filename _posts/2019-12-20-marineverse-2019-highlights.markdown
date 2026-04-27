@@ -3,6 +3,7 @@ layout: post
 title:  "MarineVerse 2019 highlights"
 date:   2019-12-19 08:00:00 +1100
 categories: vr
+tags: product-updates
 ---
 
 We have created MarineVerse to inspire, train and connect sailors. **In 2019 Over 10,000 new people have experienced sailing in virtual reality with MarineVerse**. Let's have a look at some highlights from the last 12 months!

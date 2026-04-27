@@ -3,6 +3,7 @@ layout: post
 title:  "MarineVerse Cup sails onto Meta Quest 2 on February 24th"
 date:   2022-02-13 06:00:00 +1100
 categories: cup
+tags: product-updates
 ---
 
 **Wishlist:** [https://www.oculus.com/experiences/quest/2465388190184288](https://www.oculus.com/experiences/quest/2465388190184288)

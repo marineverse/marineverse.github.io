@@ -3,6 +3,7 @@ layout: post
 title: "Funding boost powers up VR Regatta"
 date: 2017-06-16 12:00:00 +1100
 categories: sailing
+tags: product-updates
 ---
 
 Good news!

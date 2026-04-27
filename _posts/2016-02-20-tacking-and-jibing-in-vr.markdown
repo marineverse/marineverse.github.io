@@ -3,6 +3,7 @@ layout: post
 title:  "Tacking and Jibing in VR"
 date:   2016-02-20 13:00:00 +1100
 categories: cardboard sailing
+tags: practice-guides
 ---
 
 Ahoy Friends,

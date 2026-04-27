@@ -3,6 +3,7 @@ layout: post
 title:  "MarineVerse: 10 Years of Sailing in Virtual Reality"
 date:   2026-01-23 07:00:00 +1100
 categories: marineverse
+tags: product-updates
 ---
 
 <img src="/assets/10_years/10_years_hero.jpg" style="max-width: 800px; width: 100%; margin-left: auto; margin-right: auto; display: block;"/>

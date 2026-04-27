@@ -3,6 +3,7 @@ layout: post
 title:  "Big Breezy Boat ships"
 date:   2018-10-24 9:00:00 +1100
 categories: games
+tags: product-updates
 ---
 
 ##  Go sailing in cross-platform multiplayer

@@ -3,6 +3,7 @@ layout: post
 title:  "WASZP partnership"
 date:   2020-11-04 07:00:00 +1100
 categories: cup
+tags: case-studies
 ---
 
   > MarineVerse and WASZP are bringing Foiling to everyone using VR.

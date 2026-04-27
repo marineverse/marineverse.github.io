@@ -3,6 +3,7 @@ layout: post
 title:  "The best VR gadgets to buy for a sailor in 2020"
 date:   2020-09-18 9:00:00 +1100
 categories: sailing
+tags: practice-guides
 ---
 
 ![Oculus Quest](https://d3mi3qsvgmg9zn.cloudfront.net/mvcup/sailinginquest.jpg)

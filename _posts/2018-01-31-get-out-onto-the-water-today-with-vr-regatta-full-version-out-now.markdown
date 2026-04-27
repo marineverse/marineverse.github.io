@@ -3,6 +3,7 @@ layout: post
 title: "Get out onto the water today with VR Regatta, full version out now!"
 date: 2018-01-31 09:00:00 +1100
 categories: sailing
+tags: product-updates
 ---
 
 Great news, virtual sailing fans!

@@ -3,6 +3,7 @@ layout: post
 title:  "VR Regatta takes home an Award"
 date:   2019-03-20 04:00:00 +1100
 categories: startup
+tags: product-updates
 ---
 [DOWNLOAD Press release as PDF.](https://d3mi3qsvgmg9zn.cloudfront.net/VDA3VRRegattaPress.pdf)
 

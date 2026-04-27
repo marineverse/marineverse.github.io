@@ -4,6 +4,7 @@ title:  "Step Aboard S/V Uma — Iconic Cruising Yacht Lands in MarineVerse Sail
 date:   2025-06-01 02:00:00 +1100
 categories: marineverse sailing vr uma
 
+tags: product-updates
 ---
 
 **TL;DR:** You can now sail _Sailing Uma’s_ legendary 36-footer inside **MarineVerse Sailing Club** on Meta Quest 3 or SteamVR. Update the app and jump aboard today.

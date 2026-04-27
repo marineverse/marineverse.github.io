@@ -3,6 +3,7 @@ layout: post
 title:  "Virtual Reality Sailing demo during SWC Melbourne 2016"
 date:   2016-11-29 12:00:00 +1100
 categories: sailing vr
+tags: events
 ---
 **Interested in trying out our Virtual Reality Sailing prototype?** <br/> Send us a message ( <a href='mailto:ahoy@marineverse.com'>ahoy@marineverse.com</a> ) and we will schedule a demo for you *(limited spots available)*.
 <hr>

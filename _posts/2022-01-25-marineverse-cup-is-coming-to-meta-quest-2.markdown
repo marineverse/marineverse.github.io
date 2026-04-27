@@ -3,6 +3,7 @@ layout: post
 title:  "MarineVerse Cup is coming to Meta Quest 2"
 date:   2022-01-25 06:00:00 +1100
 categories: cup
+tags: product-updates
 ---
 
 <img src="https://d3mi3qsvgmg9zn.cloudfront.net/mvcup/2022/MarineverseHero.jpg" style="max-width: 800px; width: 100%; margin-left: auto; margin-right: auto; display: block;"/>

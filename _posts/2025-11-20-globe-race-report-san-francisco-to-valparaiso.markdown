@@ -3,6 +3,7 @@ layout: post
 title:  "Globe Race Report: San Francisco to Valparaiso – A Test of Endurance!"
 date:   2025-11-20 08:00:00 +1100
 categories: marineverse globe
+tags: globe
 ---
 
 **The Pacific Challenge concludes (for most!) as the fleet touches down in Chile.**

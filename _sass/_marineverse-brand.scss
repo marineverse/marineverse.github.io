@@ -54,6 +54,35 @@ h1, h2, h3, h4, h5, h6 {
   border-bottom: 1px solid #f0f0f0;
 }
 
+// Pillar pills shown under post title
+.post-pillars {
+  margin: 8px 0 0;
+  font-size: 13px;
+
+  .pill {
+    display: inline-block;
+    padding: 3px 10px;
+    margin-right: 6px;
+    border-radius: 999px;
+    background-color: rgba($brand-color, 0.1);
+    color: $marineverse-dark-blue;
+    font-weight: 500;
+    text-decoration: none;
+
+    &:hover {
+      background-color: rgba($brand-color, 0.2);
+      color: $marineverse-dark-blue;
+    }
+  }
+}
+
+.category-intro {
+  font-size: 17px;
+  color: $grey-color;
+  margin-bottom: 30px;
+  margin-top: -10px;
+}
+
 // Links and anchors
 a {
   color: $brand-color;

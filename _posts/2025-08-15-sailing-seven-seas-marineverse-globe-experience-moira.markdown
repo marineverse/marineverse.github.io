@@ -3,6 +3,7 @@ layout: post
 title:  "Sailing the Seven Seas in VR: A 10-Month Journey with MarineVerse Globe Beta"
 date:   2025-08-15 07:00:00 +1100
 categories: marineverse globe
+tags: [sailor-stories, globe]
 ---
 
 **Have you ever thought of sailing round the Horn the wrong way?** 

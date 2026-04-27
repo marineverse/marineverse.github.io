@@ -3,6 +3,7 @@ layout: post
 title:  "Best VR headsets to buy in 2016 as a sailor"
 date:   2016-04-30 17:00:00 +1100
 categories: virtualreality sailing
+tags: practice-guides
 ---
 
 [Go here for 2020 edition of the best VR gadgets to buy for a sailor.](https://blog.marineverse.com/sailing/2020/09/17/best-vr-gadgets-to-buy-for-a-sailor-in-2020.html)

@@ -3,6 +3,7 @@ layout: post
 title:  "National Sailing Programs Symposium 2019"
 date:   2019-02-03 09:00:00 +1100
 categories: sailing
+tags: events
 ---
 
 ![David at NSPS](/assets/David_Florida_01.jpg)

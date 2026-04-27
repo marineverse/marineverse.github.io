@@ -3,6 +3,7 @@ layout: post
 title:  "See you at Vision Summit 2016"
 date:   2016-02-05 16:00:00 +1100
 categories: marineverse conferences
+tags: events
 ---
 
 We are happy to share that we will be attending Vision Summit in Hollywood this year :-)

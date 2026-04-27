@@ -3,6 +3,7 @@ layout: post
 title:  "VR Fitness Summit Competition ( 2020 )"
 date:   2020-08-18 07:00:00 +1100
 categories: cup
+tags: events
 ---
 
 <img src="/assets/vrfitnesssummit2020.png" style="max-width: 800px; width: 100%; margin-left: auto; margin-right: auto; display: block;"/>

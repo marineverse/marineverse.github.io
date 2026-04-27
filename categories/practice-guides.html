@@ -1,0 +1,25 @@
+---
+layout: default
+title: Practice Guides
+permalink: /categories/practice-guides/
+---
+<div class="home category-page">
+  <h1 class="page-heading">Practice Guides</h1>
+  <p class="category-intro">How-to guides for sailing in VR — upwind, docking, rigging, racing, and more.</p>
+
+  {% if site.tags['practice-guides'] %}
+    <ul class="post-list">
+      {% assign posts = site.tags['practice-guides'] | sort: 'date' | reverse %}
+      {% for post in posts %}
+        <li>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+          {% if post.excerpt %}{{ post.excerpt }}{% endif %}
+          <p><a href="{{ post.url | prepend: site.baseurl }}">Read more..</a></p>
+        </li>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <p>No posts yet — check back soon.</p>
+  {% endif %}
+</div>

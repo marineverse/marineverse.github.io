@@ -3,6 +3,7 @@ layout: post
 title:  "NauticEd and MarineVerse launch a new VR sailing course in MarineVerse Cup."
 date:   2022-10-06 01:00:01 +1100
 categories: cup
+tags: case-studies
 ---
 
 Being a good sailor is first of all about competence and mastery of the boat, the wind and the sea. 

@@ -3,6 +3,7 @@ layout: post
 title:  "Rigging Drill - Tie knots in Mixed Reality"
 date:   2023-08-01 06:00:00 +1100
 categories: spatial
+tags: practice-guides
 ---
 
 Free download: [https://www.oculus.com/experiences/quest/6128861297199686/](https://www.oculus.com/experiences/quest/6128861297199686/?utm_source=mvblog)

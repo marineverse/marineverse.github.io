@@ -3,6 +3,7 @@ layout: post
 title:  "VR Sailors - MarineVerse Community: Bot33"
 date:   2021-04-11 07:00:00 +0000
 categories: marineverse
+tags: sailor-stories
 ---
 
 Ahoy!

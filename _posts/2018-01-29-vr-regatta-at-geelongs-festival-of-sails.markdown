@@ -3,6 +3,7 @@ layout: post
 title: "VR Regatta @ Geelong's Festival of Sails"
 date: 2018-01-29 09:00:00 +1100
 categories: sailing vr
+tags: events
 ---
 
 **VR Regatta has been a big attraction in Race Village during Geelong's Festival of Sails.**

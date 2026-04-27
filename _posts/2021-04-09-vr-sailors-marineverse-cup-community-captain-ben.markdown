@@ -3,6 +3,7 @@ layout: post
 title:  "VR Sailors - MarineVerse Community: Captain Ben"
 date:   2021-04-09 07:00:00 +1100
 categories: marineverse
+tags: sailor-stories
 ---
 
 Ahoy!

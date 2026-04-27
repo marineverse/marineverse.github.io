@@ -3,6 +3,7 @@ layout: post
 title:  "VR Sailors - MarineVerse Community: Moira"
 date:   2024-04-25 07:00:00 +1100
 categories: marineverse
+tags: sailor-stories
 ---
 
 Ahoy!

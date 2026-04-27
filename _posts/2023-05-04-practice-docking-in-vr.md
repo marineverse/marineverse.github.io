@@ -3,6 +3,7 @@ layout: post
 title:  "Practice DOCKING in VR!"
 date:   2023-05-04 14:00:00 +1100
 categories: cup
+tags: practice-guides
 ---
 
 We have  big news for you: 

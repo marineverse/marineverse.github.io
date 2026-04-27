@@ -3,6 +3,7 @@ layout: post
 title:  "VR Sailors - MarineVerse Community: Sailing FreeStyle"
 date:   2020-02-21 07:00:00 +1100
 categories: marineverse
+tags: sailor-stories
 ---
 
 Ahoy!

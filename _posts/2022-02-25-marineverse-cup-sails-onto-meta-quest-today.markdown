@@ -3,6 +3,7 @@ layout: post
 title:  "MarineVerse Cup 1.0 sails onto Meta Quest 2 today!"
 date:   2022-02-25 04:00:00 +1100
 categories: cup
+tags: product-updates
 ---
 
 **Download:** [https://www.oculus.com/experiences/quest/2465388190184288](https://www.oculus.com/experiences/quest/2465388190184288)

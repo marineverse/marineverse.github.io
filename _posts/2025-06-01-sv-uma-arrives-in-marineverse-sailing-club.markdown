@@ -53,7 +53,7 @@ With direct input and feedback from Dan and Kika, we’ve recreated **S/V Uma** 
 <img src="/assets/uma/5.jpg" style="max-width: 800px; width: 100%; margin-left: auto; margin-right: auto; display: block;"/>
 
  <iframe
-    src="http://www.marineverse.com/sailing-club-app/boats/uma-2.0/embed"
+    src="https://www.marineverse.com/sailing-club-app/boats/uma-2.0/embed"
     width="100%"
     height="520"
     style="border:0;display:block"

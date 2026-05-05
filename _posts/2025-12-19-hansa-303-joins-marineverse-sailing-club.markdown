@@ -32,6 +32,16 @@ The implications are profound. Sailability programs can now train year-round. Th
 
 The Hansa 303 proves that with thoughtful design, we can create experiences that truly include everyone. In MarineVerse, the wind is always fair, the water is always welcoming, and the horizon is calling to all of us.
 
+<iframe
+    src="https://www.marineverse.com/sailing-club-app/boats/hansa-303/embed"
+    width="100%"
+    height="520"
+    style="border:0;display:block"
+    loading="lazy"
+    allow="fullscreen"
+    allowfullscreen
+  ></iframe>
+
 ## Ready to Set Sail?
 
 The Hansa 303 is waiting for you:

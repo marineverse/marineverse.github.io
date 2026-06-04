@@ -280,11 +280,11 @@ Start here: [https://www.marineverse.com/try-the-easiest-vr-sailing](https://www
 
 *Get in touch: greg@marineverse.com, paulwager@gmail.com, and [https://www.marineverse.com/contact](https://www.marineverse.com/contact). Let's sail more often!*
 
-## Bonus: A Look at What's Coming
+## Bonus: Extra content
 
 <img src="/assets/MarineVerse_Webinar_Slides/52_extra-content.jpg" style="max-width: 800px; width: 100%; margin-left: auto; margin-right: auto; display: block;"/>
 
-*A few bonus topics from the session.*
+*A few bonus topics we didn't have time to cover during the session.*
 
 <img src="/assets/MarineVerse_Webinar_Slides/53_event-top-tips.jpg" style="max-width: 800px; width: 100%; margin-left: auto; margin-right: auto; display: block;"/>
 
